@@ -1,0 +1,37 @@
+{
+  "group": "kindredcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kindredcraft:suffusedcoal"
+    },
+    {
+      "item": "kindredcraft:suffusedcoal"
+    },
+    {
+      "item": "kindredcraft:suffusedcoal"
+    },
+    {
+      "item": "kindredcraft:suffusedcoal"
+    },
+    {
+      "item": "kindredcraft:suffusedcoal"
+    },
+    {
+      "item": "kindredcraft:suffusedcoal"
+    },
+    {
+      "item": "kindredcraft:suffusedcoal"
+    },
+    {
+      "item": "kindredcraft:suffusedcoal"
+    },
+    {
+      "item": "kindredcraft:suffusedcoal"
+    }
+  ],
+  "result": {
+    "item": "kindredcraft:suffusedcoalblock",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "group": "kindredcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:coal",
+      "data": 32767
+    },
+    {
+      "item": "kindredcraft:dustmagichite"
+    }
+  ],
+  "result": {
+    "item": "minecraft:coal",
+    "data": 0,
+    "count": 3
+  }
+}

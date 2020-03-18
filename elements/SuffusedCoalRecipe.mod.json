@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:SuffusedCoalBlock"
+    },
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DustMagichite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DustMagichite"
+      },
+      {
+        "value": "Blocks.COAL_BLOCK"
+      },
+      {
+        "value": "CUSTOM:DustMagichite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DustMagichite"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "suffusedcoalrecipe",
+    "namespace": "mod"
+  }
+}

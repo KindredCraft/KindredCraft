@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "Items.MAGMA_CREAM"
+    },
+    "recipeSlots": [
+      {
+        "value": "Blocks.MAGMA"
+      },
+      {
+        "value": "CUSTOM:DustMagichite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "maglavacube",
+    "namespace": "mod"
+  }
+}

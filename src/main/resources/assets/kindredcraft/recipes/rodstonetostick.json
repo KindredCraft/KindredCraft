@@ -1,0 +1,14 @@
+{
+  "group": "kindredcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "type": "forge:ore_dict",
+      "ore": "rodStone"
+    }
+  ],
+  "result": {
+    "item": "minecraft:stick",
+    "count": 1
+  }
+}

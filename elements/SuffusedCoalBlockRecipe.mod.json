@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": true,
+    "recipeReturnStack": {
+      "value": "CUSTOM:SuffusedCoalBlock"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:SuffusedCoal"
+      },
+      {
+        "value": "CUSTOM:SuffusedCoal"
+      },
+      {
+        "value": "CUSTOM:SuffusedCoal"
+      },
+      {
+        "value": "CUSTOM:SuffusedCoal"
+      },
+      {
+        "value": "CUSTOM:SuffusedCoal"
+      },
+      {
+        "value": "CUSTOM:SuffusedCoal"
+      },
+      {
+        "value": "CUSTOM:SuffusedCoal"
+      },
+      {
+        "value": "CUSTOM:SuffusedCoal"
+      },
+      {
+        "value": "CUSTOM:SuffusedCoal"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "suffusedcoalblockrecipe",
+    "namespace": "mod"
+  }
+}

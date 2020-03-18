@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 8,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "Blocks.SAND#0"
+    },
+    "recipeSlots": [
+      {
+        "value": "Blocks.DIRT"
+      },
+      {
+        "value": "Blocks.DIRT"
+      },
+      {
+        "value": "Blocks.DIRT"
+      },
+      {
+        "value": "Blocks.DIRT"
+      },
+      {
+        "value": "CUSTOM:AlchemicalSubstance"
+      },
+      {
+        "value": "Blocks.DIRT"
+      },
+      {
+        "value": "Blocks.DIRT"
+      },
+      {
+        "value": "Blocks.DIRT"
+      },
+      {
+        "value": "Blocks.DIRT"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "alchdirtsand",
+    "namespace": "mod"
+  }
+}

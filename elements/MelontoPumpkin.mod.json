@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 8,
+    "recipeShapeless": true,
+    "recipeReturnStack": {
+      "value": "Blocks.PUMPKIN"
+    },
+    "recipeSlots": [
+      {
+        "value": "Blocks.MELON_BLOCK"
+      },
+      {
+        "value": "Blocks.MELON_BLOCK"
+      },
+      {
+        "value": "Blocks.MELON_BLOCK"
+      },
+      {
+        "value": "Blocks.MELON_BLOCK"
+      },
+      {
+        "value": "CUSTOM:AlchemicalSubstance"
+      },
+      {
+        "value": "Blocks.MELON_BLOCK"
+      },
+      {
+        "value": "Blocks.MELON_BLOCK"
+      },
+      {
+        "value": "Blocks.MELON_BLOCK"
+      },
+      {
+        "value": "Blocks.MELON_BLOCK"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "melontopumpkin",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 8,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "Blocks.ICE"
+    },
+    "recipeSlots": [
+      {
+        "value": "Items.POTIONITEM"
+      },
+      {
+        "value": "Items.POTIONITEM"
+      },
+      {
+        "value": "Items.POTIONITEM"
+      },
+      {
+        "value": "Items.POTIONITEM"
+      },
+      {
+        "value": "CUSTOM:AlchemicalSubstance"
+      },
+      {
+        "value": "Items.POTIONITEM"
+      },
+      {
+        "value": "Items.POTIONITEM"
+      },
+      {
+        "value": "Items.POTIONITEM"
+      },
+      {
+        "value": "Items.POTIONITEM"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "alchwatertoice",
+    "namespace": "mod"
+  }
+}

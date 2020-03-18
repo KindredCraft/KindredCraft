@@ -1,0 +1,24 @@
+{
+  "group": "kindredcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "type": "forge:ore_dict",
+      "ore": "ingotSilver"
+    },
+    "1": {
+      "item": "kindredcraft:particleboard"
+    },
+    "2": {
+      "type": "forge:ore_dict",
+      "ore": "ingotSilver"
+    }
+  },
+  "result": {
+    "item": "kindredcraft:inertmagicalwood",
+    "count": 1
+  }
+}

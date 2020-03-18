@@ -1,0 +1,20 @@
+{
+  "group": "kindredcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "kindredcraft:particleboard"
+    },
+    "1": {
+      "item": "kindredcraft:dustmagichite"
+    }
+  },
+  "result": {
+    "item": "minecraft:log",
+    "data": 3,
+    "count": 2
+  }
+}

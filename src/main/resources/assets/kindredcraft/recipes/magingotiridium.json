@@ -1,0 +1,38 @@
+{
+  "group": "kindredcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "type": "forge:ore_dict",
+      "ore": "ingotIridium"
+    },
+    {
+      "item": "kindredcraft:dustmagichite"
+    },
+    {
+      "item": "kindredcraft:dustmagichite"
+    },
+    {
+      "item": "kindredcraft:dustmagichite"
+    },
+    {
+      "item": "kindredcraft:dustmagichite"
+    },
+    {
+      "item": "kindredcraft:dustmagichite"
+    },
+    {
+      "item": "kindredcraft:dustmagichite"
+    },
+    {
+      "item": "kindredcraft:dustmagichite"
+    },
+    {
+      "item": "kindredcraft:dustmagichite"
+    }
+  ],
+  "result": {
+    "item": "kindredcraft:iridiumingot",
+    "count": 2
+  }
+}

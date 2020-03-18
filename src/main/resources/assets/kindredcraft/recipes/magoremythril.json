@@ -1,0 +1,17 @@
+{
+  "group": "kindredcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "type": "forge:ore_dict",
+      "ore": "oreMithril"
+    },
+    {
+      "item": "kindredcraft:dustmagichite"
+    }
+  ],
+  "result": {
+    "item": "kindredcraft:mythrilingot",
+    "count": 2
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "kindredcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kindredcraft:stopperedemptyalchemyjar"
+    }
+  ],
+  "result": {
+    "item": "kindredcraft:emptyalchemyjar",
+    "count": 1
+  }
+}

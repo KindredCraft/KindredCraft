@@ -1,0 +1,37 @@
+{
+  "group": "kindredcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "kindredcraft:dustmagichite"
+    },
+    {
+      "item": "kindredcraft:dustmagichite"
+    },
+    {
+      "item": "kindredcraft:dustmagichite"
+    },
+    {
+      "item": "kindredcraft:dustmagichite"
+    },
+    {
+      "item": "kindredcraft:dustmagichite"
+    },
+    {
+      "item": "kindredcraft:dustmagichite"
+    },
+    {
+      "item": "kindredcraft:dustmagichite"
+    },
+    {
+      "item": "kindredcraft:dustmagichite"
+    }
+  ],
+  "result": {
+    "item": "minecraft:diamond",
+    "count": 2
+  }
+}

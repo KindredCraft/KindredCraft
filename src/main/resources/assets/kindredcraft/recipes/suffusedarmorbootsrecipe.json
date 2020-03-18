@@ -1,0 +1,26 @@
+{
+  "group": "kindredcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "kindredcraft:suffusediron"
+    },
+    "2": {
+      "item": "kindredcraft:suffusediron"
+    },
+    "3": {
+      "item": "kindredcraft:suffusediron"
+    },
+    "5": {
+      "item": "kindredcraft:suffusediron"
+    }
+  },
+  "result": {
+    "item": "kindredcraft:suffusedarmorboots",
+    "count": 1
+  }
+}

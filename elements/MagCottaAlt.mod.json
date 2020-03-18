@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 8,
+    "recipeShapeless": true,
+    "recipeReturnStack": {
+      "value": "Items.CLAY_BALL"
+    },
+    "recipeSlots": [
+      {
+        "value": "Blocks.STAINED_HARDENED_CLAY"
+      },
+      {
+        "value": "Blocks.STAINED_HARDENED_CLAY"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.WATER_BUCKET"
+      },
+      {
+        "value": "CUSTOM:DustMagichite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "magcottaalt",
+    "namespace": "mod"
+  }
+}

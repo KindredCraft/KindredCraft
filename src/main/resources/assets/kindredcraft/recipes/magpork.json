@@ -1,0 +1,16 @@
+{
+  "group": "kindredcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:porkchop"
+    },
+    {
+      "item": "kindredcraft:dustmagichite"
+    }
+  ],
+  "result": {
+    "item": "minecraft:cooked_porkchop",
+    "count": 2
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 0,
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:Flesh"
+    },
+    "smeltingReturnStack": {
+      "value": "Items.LEATHER"
+    },
+    "smeltingXPReward": 10.0,
+    "smeltingRetstackSize": 1,
+    "name": "fleshtoleatherrecipe",
+    "namespace": "mod"
+  }
+}

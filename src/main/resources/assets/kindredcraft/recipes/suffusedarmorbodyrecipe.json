@@ -1,0 +1,39 @@
+{
+  "group": "kindredcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "kindredcraft:suffusediron"
+    },
+    "2": {
+      "item": "kindredcraft:suffusediron"
+    },
+    "3": {
+      "item": "kindredcraft:suffusediron"
+    },
+    "4": {
+      "item": "kindredcraft:suffusediron"
+    },
+    "5": {
+      "item": "kindredcraft:suffusediron"
+    },
+    "6": {
+      "item": "kindredcraft:suffusediron"
+    },
+    "7": {
+      "item": "kindredcraft:suffusediron"
+    },
+    "8": {
+      "item": "kindredcraft:suffusediron"
+    }
+  },
+  "result": {
+    "item": "kindredcraft:suffusedarmorbody",
+    "count": 1
+  }
+}

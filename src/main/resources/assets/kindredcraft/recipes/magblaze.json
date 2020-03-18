@@ -1,0 +1,25 @@
+{
+  "group": "kindredcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:blaze_rod"
+    },
+    {
+      "item": "kindredcraft:dustmagichite"
+    },
+    {
+      "item": "kindredcraft:dustmagichite"
+    },
+    {
+      "item": "kindredcraft:dustmagichite"
+    },
+    {
+      "item": "kindredcraft:dustmagichite"
+    }
+  ],
+  "result": {
+    "item": "minecraft:blaze_rod",
+    "count": 2
+  }
+}

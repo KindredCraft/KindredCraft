@@ -1,0 +1,26 @@
+{
+  "group": "kindredcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "type": "forge:ore_dict",
+      "ore": "ingotCobalt"
+    },
+    {
+      "item": "kindredcraft:dustmagichite"
+    },
+    {
+      "item": "kindredcraft:dustmagichite"
+    },
+    {
+      "item": "kindredcraft:dustmagichite"
+    },
+    {
+      "item": "kindredcraft:dustmagichite"
+    }
+  ],
+  "result": {
+    "item": "kindredcraft:cobaltingot",
+    "count": 2
+  }
+}

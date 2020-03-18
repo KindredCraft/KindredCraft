@@ -1,0 +1,18 @@
+{
+  "group": "kindredcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kindredcraft:alchemicalsubstance"
+    },
+    {
+      "item": "minecraft:coal",
+      "data": 32767
+    }
+  ],
+  "result": {
+    "item": "minecraft:coal",
+    "data": 0,
+    "count": 4
+  }
+}

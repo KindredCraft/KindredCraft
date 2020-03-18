@@ -1,0 +1,16 @@
+{
+  "_fv": 5,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Oureclaseingot"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "ingotOureclase",
+    "namespace": "forge"
+  }
+}

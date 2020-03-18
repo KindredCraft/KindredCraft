@@ -1,0 +1,29 @@
+{
+  "group": "kindredcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "kindredcraft:suffusediron"
+    },
+    "1": {
+      "item": "kindredcraft:suffusediron"
+    },
+    "2": {
+      "item": "kindredcraft:suffusediron"
+    },
+    "3": {
+      "item": "kindredcraft:suffusediron"
+    },
+    "5": {
+      "item": "kindredcraft:suffusediron"
+    }
+  },
+  "result": {
+    "item": "kindredcraft:suffusedarmorhelmet",
+    "count": 1
+  }
+}

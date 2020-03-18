@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "kindredcraft:blocks/particle_board",
+    "up": "kindredcraft:blocks/particle_board",
+    "north": "kindredcraft:blocks/particle_board",
+    "east": "kindredcraft:blocks/particle_board",
+    "south": "kindredcraft:blocks/particle_board",
+    "west": "kindredcraft:blocks/particle_board",
+    "particle": "kindredcraft:blocks/particle_board"
+  }
+}

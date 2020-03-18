@@ -1,0 +1,25 @@
+{
+  "group": "kindredcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "kindredcraft:dustmagichite"
+    },
+    {
+      "item": "kindredcraft:dustmagichite"
+    },
+    {
+      "item": "kindredcraft:dustmagichite"
+    },
+    {
+      "item": "kindredcraft:dustmagichite"
+    }
+  ],
+  "result": {
+    "item": "minecraft:gold_ingot",
+    "count": 2
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "kindredcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kindredcraft:suffusedcoalblock"
+    }
+  ],
+  "result": {
+    "item": "kindredcraft:suffusedcoal",
+    "count": 9
+  }
+}

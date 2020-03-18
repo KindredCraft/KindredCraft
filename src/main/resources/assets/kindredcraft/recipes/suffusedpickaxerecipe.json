@@ -1,0 +1,30 @@
+{
+  "group": "kindredcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "kindredcraft:suffusediron"
+    },
+    "1": {
+      "item": "kindredcraft:suffusediron"
+    },
+    "2": {
+      "item": "kindredcraft:suffusediron"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "kindredcraft:suffusedpickaxe",
+    "count": 1
+  }
+}

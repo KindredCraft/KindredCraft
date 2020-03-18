@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:SuffusedArmor.legs"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:SuffusedIron"
+      },
+      {
+        "value": "CUSTOM:SuffusedIron"
+      },
+      {
+        "value": "CUSTOM:SuffusedIron"
+      },
+      {
+        "value": "CUSTOM:SuffusedIron"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SuffusedIron"
+      },
+      {
+        "value": "CUSTOM:SuffusedIron"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SuffusedIron"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "suffusedarmorleggingsrecipe",
+    "namespace": "mod"
+  }
+}

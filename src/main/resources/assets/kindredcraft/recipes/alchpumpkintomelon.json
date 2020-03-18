@@ -1,0 +1,42 @@
+{
+  "group": "kindredcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:pumpkin"
+    },
+    "1": {
+      "item": "minecraft:pumpkin"
+    },
+    "2": {
+      "item": "minecraft:pumpkin"
+    },
+    "3": {
+      "item": "minecraft:pumpkin"
+    },
+    "4": {
+      "item": "kindredcraft:alchemicalsubstance"
+    },
+    "5": {
+      "item": "minecraft:pumpkin"
+    },
+    "6": {
+      "item": "minecraft:pumpkin"
+    },
+    "7": {
+      "item": "minecraft:pumpkin"
+    },
+    "8": {
+      "item": "minecraft:pumpkin"
+    }
+  },
+  "result": {
+    "item": "minecraft:melon_block",
+    "count": 8
+  }
+}

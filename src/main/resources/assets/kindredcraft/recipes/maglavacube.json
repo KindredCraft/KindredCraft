@@ -1,0 +1,19 @@
+{
+  "group": "kindredcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:magma"
+    },
+    "1": {
+      "item": "kindredcraft:dustmagichite"
+    }
+  },
+  "result": {
+    "item": "minecraft:magma_cream",
+    "count": 4
+  }
+}

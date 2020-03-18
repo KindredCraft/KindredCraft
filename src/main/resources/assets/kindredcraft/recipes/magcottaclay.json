@@ -1,0 +1,25 @@
+{
+  "group": "kindredcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:stained_hardened_clay",
+      "data": 32767
+    },
+    {
+      "item": "minecraft:stained_hardened_clay",
+      "data": 32767
+    },
+    {
+      "item": "minecraft:potion",
+      "data": 32767
+    },
+    {
+      "item": "kindredcraft:dustmagichite"
+    }
+  ],
+  "result": {
+    "item": "minecraft:clay_ball",
+    "count": 8
+  }
+}

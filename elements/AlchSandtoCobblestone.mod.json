@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 8,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "Blocks.COBBLESTONE"
+    },
+    "recipeSlots": [
+      {
+        "value": "Blocks.SAND"
+      },
+      {
+        "value": "Blocks.SAND"
+      },
+      {
+        "value": "Blocks.SAND"
+      },
+      {
+        "value": "Blocks.SAND"
+      },
+      {
+        "value": "CUSTOM:AlchemicalSubstance"
+      },
+      {
+        "value": "Blocks.SAND"
+      },
+      {
+        "value": "Blocks.SAND"
+      },
+      {
+        "value": "Blocks.SAND"
+      },
+      {
+        "value": "Blocks.SAND"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "alchsandtocobblestone",
+    "namespace": "mod"
+  }
+}

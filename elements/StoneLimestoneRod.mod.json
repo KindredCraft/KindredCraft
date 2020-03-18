@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:RodStoneItem"
+    },
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "TAG:stoneLimestone"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "TAG:stoneLimestone"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "stonelimestonerod",
+    "namespace": "mod"
+  }
+}

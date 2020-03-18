@@ -1,0 +1,37 @@
+{
+  "group": "kindredcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:melon_block"
+    },
+    {
+      "item": "minecraft:melon_block"
+    },
+    {
+      "item": "minecraft:melon_block"
+    },
+    {
+      "item": "minecraft:melon_block"
+    },
+    {
+      "item": "kindredcraft:alchemicalsubstance"
+    },
+    {
+      "item": "minecraft:melon_block"
+    },
+    {
+      "item": "minecraft:melon_block"
+    },
+    {
+      "item": "minecraft:melon_block"
+    },
+    {
+      "item": "minecraft:melon_block"
+    }
+  ],
+  "result": {
+    "item": "minecraft:pumpkin",
+    "count": 8
+  }
+}

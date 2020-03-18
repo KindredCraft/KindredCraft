@@ -1,0 +1,21 @@
+{
+  "_fv": 5,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "flesh",
+    "customModelName": "Normal",
+    "name": "Flesh",
+    "creativeTab": {
+      "value": "CUSTOM:KindredCraftItems"
+    },
+    "stackSize": 32,
+    "nutritionalValue": 5,
+    "saturation": 0.5,
+    "eatingSpeed": 32,
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:FlintScraper"
+    },
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:RodStoneItem"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:RodStoneItem"
+      },
+      {
+        "value": "Items.FLINT"
+      },
+      {
+        "value": "CUSTOM:RodStoneItem"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "flintscraperrecipe",
+    "namespace": "mod"
+  }
+}

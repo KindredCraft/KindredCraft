@@ -1,0 +1,87 @@
+{
+  "_fv": 5,
+  "_type": "block",
+  "definition": {
+    "texture": "magichiteorenether",
+    "textureTop": "magichiteorenether",
+    "textureLeft": "magichiteorenether",
+    "textureFront": "magichiteorenether",
+    "textureRight": "magichiteorenether",
+    "textureBack": "magichiteorenether",
+    "renderType": 10,
+    "customModelName": "Normal",
+    "rotationMode": 0,
+    "hasTransparency": false,
+    "transparencyType": "SOLID",
+    "mx": 0.0,
+    "my": 0.0,
+    "mz": 0.0,
+    "Mx": 1.0,
+    "My": 1.0,
+    "Mz": 1.0,
+    "faceShape": "SOLID",
+    "name": "Nethrachite",
+    "specialInfo": [],
+    "hardness": 3.0,
+    "resistance": 30.0,
+    "hasGravity": false,
+    "creativeTab": {
+      "value": "CUSTOM:KindredCraftBlocks"
+    },
+    "destroyTool": "pickaxe",
+    "affectedBySilkTouch": true,
+    "customDrop": {
+      "value": "CUSTOM:DustMagichite"
+    },
+    "dropAmount": 7,
+    "isBeaconBase": false,
+    "enchantPowerBonus": 0.0,
+    "plantsGrowOn": false,
+    "canProvidePower": false,
+    "lightOpacity": 255,
+    "material": {
+      "value": "ROCK"
+    },
+    "tickRate": 10,
+    "isReplaceable": false,
+    "isFlammable": false,
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
+    "isNotColidable": false,
+    "soundOnStep": {
+      "value": "GLASS"
+    },
+    "luminance": 1.0,
+    "unbreakable": false,
+    "breakHarvestLevel": 2,
+    "spawnParticles": true,
+    "particleToSpawn": {
+      "value": "PORTAL"
+    },
+    "particleSpawningShape": "Spread",
+    "particleSpawningRadious": 0.5,
+    "particleAmount": 4,
+    "particleSpawningCondition": "ALWAYS",
+    "hasInventory": false,
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "inventoryDropWhenDestroyed": true,
+    "inventoryComparatorPower": true,
+    "inventoryOutSlotIDs": [],
+    "spawnWorldTypes": [
+      "Nether"
+    ],
+    "restrictionBiomes": [],
+    "blocksToReplace": [
+      {
+        "value": "Blocks.NETHERRACK"
+      }
+    ],
+    "frequencyPerChunks": 6,
+    "frequencyOnChunk": 4,
+    "minGenerateHeight": 0,
+    "maxGenerateHeight": 256
+  }
+}

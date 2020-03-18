@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "kindredcraft:blocks/oremagichitetexture",
+    "up": "kindredcraft:blocks/oremagichitetexture",
+    "north": "kindredcraft:blocks/oremagichitetexture",
+    "east": "kindredcraft:blocks/oremagichitetexture",
+    "south": "kindredcraft:blocks/oremagichitetexture",
+    "west": "kindredcraft:blocks/oremagichitetexture",
+    "particle": "kindredcraft:blocks/oremagichitetexture"
+  }
+}

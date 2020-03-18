@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "kindredcraft:blocks/magichiteorenether",
+    "up": "kindredcraft:blocks/magichiteorenether",
+    "north": "kindredcraft:blocks/magichiteorenether",
+    "east": "kindredcraft:blocks/magichiteorenether",
+    "south": "kindredcraft:blocks/magichiteorenether",
+    "west": "kindredcraft:blocks/magichiteorenether",
+    "particle": "kindredcraft:blocks/magichiteorenether"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 16,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:AlchemicalSubstance"
+    },
+    "recipeSlots": [
+      {
+        "value": "Items.POTIONITEM"
+      },
+      {
+        "value": "CUSTOM:ParticleBoard"
+      },
+      {
+        "value": "Items.POTIONITEM"
+      },
+      {
+        "value": "Items.DYE#4"
+      },
+      {
+        "value": "CUSTOM:DustMagichite"
+      },
+      {
+        "value": "Items.REDSTONE"
+      },
+      {
+        "value": "Blocks.RED_FLOWER"
+      },
+      {
+        "value": "CUSTOM:EmptyAlchemyJar"
+      },
+      {
+        "value": "Blocks.SAPLING"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "alchemicalsubstancerecipe",
+    "namespace": "mod"
+  }
+}

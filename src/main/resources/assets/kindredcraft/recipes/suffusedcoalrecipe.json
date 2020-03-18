@@ -1,0 +1,30 @@
+{
+  "group": "kindredcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "kindredcraft:dustmagichite"
+    },
+    "3": {
+      "item": "kindredcraft:dustmagichite"
+    },
+    "4": {
+      "item": "minecraft:coal_block"
+    },
+    "5": {
+      "item": "kindredcraft:dustmagichite"
+    },
+    "7": {
+      "item": "kindredcraft:dustmagichite"
+    }
+  },
+  "result": {
+    "item": "kindredcraft:suffusedcoalblock",
+    "count": 1
+  }
+}

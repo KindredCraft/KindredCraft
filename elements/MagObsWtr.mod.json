@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": true,
+    "recipeReturnStack": {
+      "value": "Blocks.OBSIDIAN"
+    },
+    "recipeSlots": [
+      {
+        "value": "Items.LAVA_BUCKET"
+      },
+      {
+        "value": "Items.WATER_BUCKET"
+      },
+      {
+        "value": "CUSTOM:DustMagichite"
+      },
+      {
+        "value": "CUSTOM:DustMagichite"
+      },
+      {
+        "value": "CUSTOM:DustMagichite"
+      },
+      {
+        "value": "CUSTOM:DustMagichite"
+      },
+      {
+        "value": "CUSTOM:DustMagichite"
+      },
+      {
+        "value": "CUSTOM:DustMagichite"
+      },
+      {
+        "value": "CUSTOM:DustMagichite"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "magobswtr",
+    "namespace": "mod"
+  }
+}
