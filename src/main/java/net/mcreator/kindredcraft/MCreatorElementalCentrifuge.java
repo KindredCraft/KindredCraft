@@ -9,8 +9,11 @@ import net.minecraftforge.client.event.ModelRegistryEvent;
 
 import net.minecraft.world.World;
 import net.minecraft.util.math.BlockPos;
+import net.minecraft.util.Rotation;
 import net.minecraft.util.NonNullList;
+import net.minecraft.util.Mirror;
 import net.minecraft.util.EnumParticleTypes;
+import net.minecraft.util.EnumFacing;
 import net.minecraft.util.EnumBlockRenderType;
 import net.minecraft.tileentity.TileEntityLockableLoot;
 import net.minecraft.tileentity.TileEntity;
@@ -19,16 +22,21 @@ import net.minecraft.item.ItemStack;
 import net.minecraft.item.ItemBlock;
 import net.minecraft.item.Item;
 import net.minecraft.inventory.ItemStackHelper;
+import net.minecraft.inventory.InventoryHelper;
 import net.minecraft.inventory.ContainerChest;
 import net.minecraft.inventory.Container;
 import net.minecraft.entity.player.InventoryPlayer;
 import net.minecraft.entity.player.EntityPlayer;
+import net.minecraft.entity.EntityLivingBase;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.client.Minecraft;
 import net.minecraft.block.state.IBlockState;
+import net.minecraft.block.properties.PropertyDirection;
+import net.minecraft.block.properties.IProperty;
 import net.minecraft.block.material.Material;
 import net.minecraft.block.SoundType;
 import net.minecraft.block.ITileEntityProvider;
+import net.minecraft.block.BlockHorizontal;
 import net.minecraft.block.Block;
 
 import java.util.Random;
@@ -61,6 +69,8 @@ public class MCreatorElementalCentrifuge extends Elementskindredcraft.ModElement
 	}
 
 	public static class BlockCustom extends Block implements ITileEntityProvider {
+		public static final PropertyDirection FACING = BlockHorizontal.FACING;
+
 		public BlockCustom() {
 			super(Material.ROCK);
 			setRegistryName("elementalcentrifuge");
@@ -72,6 +82,38 @@ public class MCreatorElementalCentrifuge extends Elementskindredcraft.ModElement
 			setLightLevel(1F);
 			setLightOpacity(255);
 			setCreativeTab(MCreatorKindredCraftBlocks.tab);
+			this.setDefaultState(this.blockState.getBaseState().withProperty(FACING, EnumFacing.NORTH));
+		}
+
+		@Override
+		protected net.minecraft.block.state.BlockStateContainer createBlockState() {
+			return new net.minecraft.block.state.BlockStateContainer(this, new IProperty[]{FACING});
+		}
+
+		@Override
+		public IBlockState withRotation(IBlockState state, Rotation rot) {
+			return state.withProperty(FACING, rot.rotate((EnumFacing) state.getValue(FACING)));
+		}
+
+		@Override
+		public IBlockState withMirror(IBlockState state, Mirror mirrorIn) {
+			return state.withRotation(mirrorIn.toRotation((EnumFacing) state.getValue(FACING)));
+		}
+
+		@Override
+		public IBlockState getStateFromMeta(int meta) {
+			return this.getDefaultState().withProperty(FACING, EnumFacing.getFront(meta));
+		}
+
+		@Override
+		public int getMetaFromState(IBlockState state) {
+			return ((EnumFacing) state.getValue(FACING)).getIndex();
+		}
+
+		@Override
+		public IBlockState getStateForPlacement(World worldIn, BlockPos pos, EnumFacing facing, float hitX, float hitY, float hitZ, int meta,
+				EntityLivingBase placer) {
+			return this.getDefaultState().withProperty(FACING, placer.getHorizontalFacing().getOpposite());
 		}
 
 		@Override
@@ -89,6 +131,15 @@ public class MCreatorElementalCentrifuge extends Elementskindredcraft.ModElement
 		@Override
 		public EnumBlockRenderType getRenderType(IBlockState state) {
 			return EnumBlockRenderType.MODEL;
+		}
+
+		@Override
+		public void breakBlock(World world, BlockPos pos, IBlockState state) {
+			TileEntity tileentity = world.getTileEntity(pos);
+			if (tileentity instanceof TileEntityCustom)
+				InventoryHelper.dropInventoryItems(world, pos, (TileEntityCustom) tileentity);
+			world.removeTileEntity(pos);
+			super.breakBlock(world, pos, state);
 		}
 
 		@Override
@@ -132,11 +183,11 @@ public class MCreatorElementalCentrifuge extends Elementskindredcraft.ModElement
 	}
 
 	public static class TileEntityCustom extends TileEntityLockableLoot {
-		private NonNullList<ItemStack> stacks = NonNullList.<ItemStack> withSize(19, ItemStack.EMPTY);
+		private NonNullList<ItemStack> stacks = NonNullList.<ItemStack> withSize(18, ItemStack.EMPTY);
 
 		@Override
 		public int getSizeInventory() {
-			return 19;
+			return 18;
 		}
 
 		@Override

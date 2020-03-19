@@ -2,6 +2,21 @@
   "variants": {
     "normal": {
       "model": "kindredcraft:elementalcentrifuge"
+    },
+    "facing=north": {
+      "model": "kindredcraft:elementalcentrifuge"
+    },
+    "facing=east": {
+      "model": "kindredcraft:elementalcentrifuge",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "kindredcraft:elementalcentrifuge",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "kindredcraft:elementalcentrifuge",
+      "y": 270
     }
   }
 }
