@@ -6,7 +6,7 @@
     "width": 448,
     "height": 448,
     "renderBgLayer": true,
-    "containerBlock": "<none>",
+    "containerBlock": "ElementalCentrifuge",
     "components": [
       {
         "type": "inputslot",

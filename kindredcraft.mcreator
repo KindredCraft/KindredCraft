@@ -2460,6 +2460,14 @@
       "ids": {
         "0": 1
       }
+    },
+    {
+      "name": "ElementalCentrifuge",
+      "type": "block",
+      "sortid": 329,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -2492,6 +2500,7 @@
       "advancements.mygoditsfullofstars.descr": "Through hard work you have moved forward along your path. Lets start Alchemy!",
       "item.oureclaseingot.name": "Oureclase Ingot",
       "item.ignatiusingot.name": "Ignatius Ingot",
+      "tile.elementalcentrifuge.name": "Elemental Centrifuge",
       "item.vulcaniteingot.name": "Vulcanite Ingot",
       "item.flintscraper.name": "Flint Scraper",
       "tile.suffusedcoalblock.name": "Suffused Coal Block",

@@ -12,6 +12,7 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import net.minecraft.world.World;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.util.ResourceLocation;
+import net.minecraft.tileentity.TileEntity;
 import net.minecraft.item.ItemStack;
 import net.minecraft.inventory.Slot;
 import net.minecraft.inventory.InventoryHelper;
@@ -33,6 +34,7 @@ public class MCreatorElementalCrystalizationChamber extends Elementskindredcraft
 	public static HashMap guiinventory = new HashMap();
 	public static IInventory ECCIn;
 	public static IInventory ECCOut;
+	public static IInventory inherited;
 
 	public MCreatorElementalCrystalizationChamber(Elementskindredcraft instance) {
 		super(instance, 328);
@@ -55,6 +57,11 @@ public class MCreatorElementalCrystalizationChamber extends Elementskindredcraft
 			this.x = x;
 			this.y = y;
 			this.z = z;
+			TileEntity ent = world.getTileEntity(new BlockPos(x, y, z));
+			if (ent instanceof MCreatorElementalCentrifuge.TileEntityCustom)
+				inherited = (IInventory) ent;
+			else
+				inherited = new InventoryBasic("", true, 9);
 			ECCIn = new InventoryBasic("ECCIn", true, 2);
 			guiinventory.put("ECCIn", ECCIn);
 			ECCOut = new InventoryBasic("ECCOut", true, 16);
