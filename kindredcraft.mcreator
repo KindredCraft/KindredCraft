@@ -2484,6 +2484,54 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "FragmentClay",
+      "type": "item",
+      "sortid": 332,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FragmentClayTag",
+      "type": "tag",
+      "sortid": 333,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FragDeath",
+      "type": "item",
+      "sortid": 334,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FragmentDeath",
+      "type": "tag",
+      "sortid": 335,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FragDemonic",
+      "type": "item",
+      "sortid": 336,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FragmentDemonic",
+      "type": "tag",
+      "sortid": 337,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -2506,6 +2554,7 @@
       "item.sanguiniteingot.name": "Sanguinite Ingot",
       "item.mythrilingot.name": "Mythril Ingot",
       "item.dustmagichite.name": "Magichite",
+      "item.fragmentclay.name": "Clay Fragment",
       "item.suffusedcoal.name": "Suffused Coal",
       "item.rubraciumingot.name": "Rubracium Ingot",
       "item.vyroxeresingot.name": "Vyroxeres Ingot",
@@ -2537,7 +2586,7 @@
       "item.suffusedhoe.name": "Suffused Hoe",
       "item.emptyalchemyjar.name": "Empty Alchemy Jar",
       "item.platinumingot.name": "Platinum Ingot",
-      "item.fragair.name": "Frag Air",
+      "item.fragair.name": "Air Fragment",
       "item.adamantineingot.name": "Adamantine Ingot",
       "item.siliconingot.name": "Silicon Ingot",
       "item.zincingot.name": "Zinc Ingot",
@@ -2560,7 +2609,9 @@
       "item.suffusediron.name": "Suffused Iron",
       "item.manganeseingot.name": "Manganese Ingot",
       "tile.kindredcoalblock.name": "Kindred Coal Block",
+      "item.fragdemonic.name": "Demonic Fragment",
       "tile.particleboard.name": "Particle Board",
+      "item.fragdeath.name": "Death Fragment",
       "item.suffusedarmorboots.name": "Suffused Boots",
       "item.leadingot.name": "Lead Ingot"
     }

@@ -3,9 +3,9 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "fragmentair",
+    "texture": "fragmentclay",
     "customModelName": "Normal",
-    "name": "Air Fragment",
+    "name": "Clay Fragment",
     "creativeTab": {
       "value": "CUSTOM:KindredCraftItems"
     },

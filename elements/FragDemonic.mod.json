@@ -3,9 +3,9 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "fragmentair",
+    "texture": "fragmentdemonic",
     "customModelName": "Normal",
-    "name": "Air Fragment",
+    "name": "Demonic Fragment",
     "creativeTab": {
       "value": "CUSTOM:KindredCraftItems"
     },
@@ -19,6 +19,6 @@
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
     "specialInfo": [],
-    "hasGlow": false
+    "hasGlow": true
   }
 }
