@@ -2468,6 +2468,22 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "FragAir",
+      "type": "item",
+      "sortid": 330,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FragmentAir",
+      "type": "tag",
+      "sortid": 331,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -2477,15 +2493,15 @@
       "itemGroup.tabkindredcraftblocks": "Kindred Craft Blocks",
       "item.flesh.name": "Flesh",
       "tile.magichite.name": "Magichite",
-      "item.suffusedaxe.name": "Suffused Axe",
       "tile.nethrachite.name": "Nethrachite",
+      "item.suffusedaxe.name": "Suffused Axe",
       "item.lemuriteingot.name": "Lemurite Ingot",
       "item.suffusedarmorlegs.name": "Suffused Leggings",
       "itemGroup.tabkindredcraftingots": "Kindred Craft Ingots",
       "item.prometheumingot.name": "Prometheum Ingot",
       "item.ceruclaseingot.name": "Ceruclase Ingot",
-      "item.infuscoliumingot.name": "Infuscolium Ingot",
       "tile.endrachite.name": "Endrachite",
+      "item.infuscoliumingot.name": "Infuscolium Ingot",
       "item.suffusedarmorhelmet.name": "Suffused Helmet",
       "item.sanguiniteingot.name": "Sanguinite Ingot",
       "item.mythrilingot.name": "Mythril Ingot",
@@ -2521,6 +2537,7 @@
       "item.suffusedhoe.name": "Suffused Hoe",
       "item.emptyalchemyjar.name": "Empty Alchemy Jar",
       "item.platinumingot.name": "Platinum Ingot",
+      "item.fragair.name": "Frag Air",
       "item.adamantineingot.name": "Adamantine Ingot",
       "item.siliconingot.name": "Silicon Ingot",
       "item.zincingot.name": "Zinc Ingot",
