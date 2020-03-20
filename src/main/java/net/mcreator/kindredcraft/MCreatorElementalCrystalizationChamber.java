@@ -367,6 +367,8 @@ public class MCreatorElementalCrystalizationChamber extends Elementskindredcraft
 
 		@Override
 		protected void drawGuiContainerForegroundLayer(int par1, int par2) {
+			this.fontRenderer.drawString("Elemental Centrifuge", 4, 3, -10066330);
+			this.fontRenderer.drawString("Inventory", 31, 94, -10066330);
 		}
 
 		@Override

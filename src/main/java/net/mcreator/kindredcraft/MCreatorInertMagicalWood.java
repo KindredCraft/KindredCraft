@@ -46,7 +46,7 @@ public class MCreatorInertMagicalWood extends Elementskindredcraft.ModElement {
 			setResistance(10F);
 			setLightLevel(0F);
 			setLightOpacity(255);
-			setCreativeTab(MCreatorKindredCraftItems.tab);
+			setCreativeTab(MCreatorKindredCraftBlocks.tab);
 		}
 	}
 }

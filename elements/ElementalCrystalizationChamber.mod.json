@@ -254,6 +254,32 @@
           "x": 552,
           "y": 150
         }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Elemental Centrifuge",
+          "color": {
+            "value": -10066330,
+            "falpha": 0.0
+          },
+          "name": "Elemental Centrifuge",
+          "x": 211,
+          "y": 22
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Inventory",
+          "color": {
+            "value": -10066330,
+            "falpha": 0.0
+          },
+          "name": "Inventory",
+          "x": 264,
+          "y": 204
+        }
       }
     ],
     "inventories": [

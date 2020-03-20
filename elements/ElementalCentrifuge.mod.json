@@ -88,6 +88,9 @@
       16,
       17
     ],
+    "onRightClicked": {
+      "name": "ElementalCentrifugeOnBlockRightClicked"
+    },
     "spawnWorldTypes": [],
     "restrictionBiomes": [],
     "blocksToReplace": [],
