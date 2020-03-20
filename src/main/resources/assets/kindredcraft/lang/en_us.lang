@@ -37,6 +37,7 @@ item.siliconingot.name=Silicon Ingot
 item.zincingot.name=Zinc Ingot
 item.tiningot.name=Tin Ingot
 item.uraniumingot.name=Uranium Ingot
+item.randomtest.name=Random Test
 itemGroup.tabkindredcraftitems=Kindred Craft Items
 item.arditeingot.name=Ardite Ingot
 tile.inertmagicalwood.name=Inert Magical Wood
