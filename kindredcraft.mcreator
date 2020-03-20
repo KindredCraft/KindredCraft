@@ -2868,6 +2868,14 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "DustAirTag",
+      "type": "tag",
+      "sortid": 377,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -2876,8 +2884,8 @@
     "en_us": {
       "itemGroup.tabkindredcraftblocks": "Kindred Craft Blocks",
       "tile.magichite.name": "Magichite",
-      "item.suffusedaxe.name": "Suffused Axe",
       "tile.nethrachite.name": "Nethrachite",
+      "item.suffusedaxe.name": "Suffused Axe",
       "item.dustclay.name": "Clay Dust",
       "item.lemuriteingot.name": "Lemurite Ingot",
       "item.dustfire.name": "Fire Dust",
@@ -2900,8 +2908,8 @@
       "item.dustdeath.name": "Dust Death",
       "item.cobaltingot.name": "Cobalt Ingot",
       "item.orichalcumingot.name": "Orichalcum Ingot",
-      "item.shadowironingot.name": "Shadow Iron Ingot",
       "item.dustlife.name": "Life Dust",
+      "item.shadowironingot.name": "Shadow Iron Ingot",
       "item.copperingot.name": "Copper Ingot",
       "item.iridiumingot.name": "Iridium Ingot",
       "item.nickelingot.name": "Nickel Ingot",
@@ -2914,8 +2922,8 @@
       "item.tiningot.name": "Tin Ingot",
       "item.uraniumingot.name": "Uranium Ingot",
       "item.randomtest.name": "Random Test",
-      "itemGroup.tabkindredcraftitems": "Kindred Craft Items",
       "item.arditeingot.name": "Ardite Ingot",
+      "itemGroup.tabkindredcraftitems": "Kindred Craft Items",
       "tile.inertmagicalwood.name": "Inert Magical Wood",
       "item.dustdemonic.name": "Demonic Dust",
       "item.fraglight.name": "Light Fragment",
