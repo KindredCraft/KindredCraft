@@ -57,6 +57,7 @@ item.leadingot.name=Lead Ingot
 item.flesh.name=Flesh
 item.dustlight.name=Light Dust
 item.suffusedarmorlegs.name=Suffused Leggings
+tile.testblockpleaseignore.name=Test Block Please Ignore
 itemGroup.tabkindredcraftingots=Kindred Craft Ingots
 tile.endrachite.name=Endrachite
 item.infuscoliumingot.name=Infuscolium Ingot

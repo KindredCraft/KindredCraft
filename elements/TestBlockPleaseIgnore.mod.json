@@ -2,15 +2,15 @@
   "_fv": 5,
   "_type": "block",
   "definition": {
-    "texture": "ecc_bottom",
-    "textureTop": "ecc_bottom",
-    "textureLeft": "ecc_bottom",
-    "textureFront": "ecc",
-    "textureRight": "ecc_bottom",
-    "textureBack": "ecc_bottom",
+    "texture": "bestface",
+    "textureTop": "bestface",
+    "textureLeft": "bestface",
+    "textureFront": "bestface",
+    "textureRight": "bestface",
+    "textureBack": "bestface",
     "renderType": 10,
     "customModelName": "Normal",
-    "rotationMode": 1,
+    "rotationMode": 0,
     "hasTransparency": false,
     "transparencyType": "SOLID",
     "mx": 0.0,
@@ -20,15 +20,15 @@
     "My": 1.0,
     "Mz": 1.0,
     "faceShape": "SOLID",
-    "name": "Elemental Centrifuge",
+    "name": "Test Block Please Ignore",
     "specialInfo": [],
-    "hardness": 2.0,
+    "hardness": 1.0,
     "resistance": 10.0,
     "hasGravity": false,
     "creativeTab": {
-      "value": "CUSTOM:KindredCraftBlocks"
+      "value": "CUSTOM:KindredCraftItems"
     },
-    "destroyTool": "pickaxe",
+    "destroyTool": "Not specified",
     "affectedBySilkTouch": true,
     "customDrop": {
       "value": ""
@@ -51,38 +51,38 @@
     },
     "isNotColidable": false,
     "soundOnStep": {
-      "value": "STONE"
+      "value": "GROUND"
     },
-    "luminance": 1.0,
+    "luminance": 0.0,
     "unbreakable": false,
     "breakHarvestLevel": 1,
-    "spawnParticles": true,
+    "spawnParticles": false,
     "particleToSpawn": {
-      "value": "PORTAL"
+      "value": "EXPLOSION_NORMAL"
     },
     "particleSpawningShape": "Spread",
     "particleSpawningRadious": 0.5,
     "particleAmount": 4,
     "particleSpawningCondition": "ALWAYS",
     "hasInventory": true,
-    "inventorySize": 19,
+    "inventorySize": 18,
     "inventoryStackSize": 64,
     "inventoryDropWhenDestroyed": true,
     "inventoryComparatorPower": true,
     "inventoryOutSlotIDs": [],
     "onRightClicked": {
-      "name": "ElementalCentrifugeOnBlockRightClicked"
+      "name": "TestBlockPleaseIgnoreOnBlockRightClicked"
     },
     "onTickUpdate": {
-<<<<<<< HEAD
-      "name": "ElementalCenrifuge"
-=======
       "name": "ElementalSeperator"
->>>>>>> 07c8c4c249242fff0df75497fb13b49b25e2be39
     },
     "spawnWorldTypes": [],
     "restrictionBiomes": [],
-    "blocksToReplace": [],
+    "blocksToReplace": [
+      {
+        "value": "Blocks.STONE"
+      }
+    ],
     "frequencyPerChunks": 10,
     "frequencyOnChunk": 16,
     "minGenerateHeight": 0,

@@ -180,7 +180,11 @@ public class MCreatorElementalCentrifuge extends Elementskindredcraft.ModElement
 				$_dependencies.put("y", y);
 				$_dependencies.put("z", z);
 				$_dependencies.put("world", world);
+<<<<<<< HEAD
 				MCreatorElementalCenrifuge.executeProcedure($_dependencies);
+=======
+				MCreatorElementalSeperator.executeProcedure($_dependencies);
+>>>>>>> 07c8c4c249242fff0df75497fb13b49b25e2be39
 			}
 			world.scheduleUpdate(new BlockPos(x, y, z), this, this.tickRate(world));
 		}
@@ -232,11 +236,11 @@ public class MCreatorElementalCentrifuge extends Elementskindredcraft.ModElement
 	}
 
 	public static class TileEntityCustom extends TileEntityLockableLoot {
-		private NonNullList<ItemStack> stacks = NonNullList.<ItemStack> withSize(18, ItemStack.EMPTY);
+		private NonNullList<ItemStack> stacks = NonNullList.<ItemStack> withSize(19, ItemStack.EMPTY);
 
 		@Override
 		public int getSizeInventory() {
-			return 18;
+			return 19;
 		}
 
 		@Override
@@ -249,40 +253,6 @@ public class MCreatorElementalCentrifuge extends Elementskindredcraft.ModElement
 
 		@Override
 		public boolean isItemValidForSlot(int index, ItemStack stack) {
-			if (index == 1)
-				return false;
-			if (index == 2)
-				return false;
-			if (index == 3)
-				return false;
-			if (index == 4)
-				return false;
-			if (index == 5)
-				return false;
-			if (index == 6)
-				return false;
-			if (index == 7)
-				return false;
-			if (index == 8)
-				return false;
-			if (index == 9)
-				return false;
-			if (index == 10)
-				return false;
-			if (index == 11)
-				return false;
-			if (index == 12)
-				return false;
-			if (index == 13)
-				return false;
-			if (index == 14)
-				return false;
-			if (index == 15)
-				return false;
-			if (index == 16)
-				return false;
-			if (index == 17)
-				return false;
 			return true;
 		}
 
