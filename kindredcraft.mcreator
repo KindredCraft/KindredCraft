@@ -2452,24 +2452,6 @@
       "ids": {}
     },
     {
-      "name": "ElementalCrystalizationChamber",
-      "type": "gui",
-      "sortid": 328,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {
-        "0": 1
-      }
-    },
-    {
-      "name": "ElementalCentrifuge",
-      "type": "block",
-      "sortid": 329,
-      "compiles": false,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
       "name": "FragAir",
       "type": "item",
       "sortid": 330,
@@ -2532,38 +2514,6 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
-    },
-    {
-      "name": "ElementalCentrifugeOnBlockRightClicked",
-      "type": "procedure",
-      "sortid": 338,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "int"
-          },
-          {
-            "name": "y",
-            "type": "int"
-          },
-          {
-            "name": "z",
-            "type": "int"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      }
     },
     {
       "name": "FragDevine",
@@ -2896,56 +2846,6 @@
           }
         ]
       }
-    },
-    {
-      "name": "TestBlockPleaseIgnore",
-      "type": "block",
-      "sortid": 379,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "TestGui",
-      "type": "gui",
-      "sortid": 380,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {
-        "0": 2
-      }
-    },
-    {
-      "name": "TestBlockPleaseIgnoreOnBlockRightClicked",
-      "type": "procedure",
-      "sortid": 381,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "int"
-          },
-          {
-            "name": "y",
-            "type": "int"
-          },
-          {
-            "name": "z",
-            "type": "int"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      }
     }
   ],
   "variable_elements": [],
@@ -2969,7 +2869,6 @@
       "item.alduoriteingot.name": "Alduorite Ingot",
       "advancements.mygoditsfullofstars.descr": "Through hard work you have moved forward along your path. Lets start Alchemy!",
       "item.oureclaseingot.name": "Oureclase Ingot",
-      "tile.elementalcentrifuge.name": "Elemental Centrifuge",
       "item.dustearth.name": "Dust Earth",
       "item.flintscraper.name": "Flint Scraper",
       "item.fragfrost.name": "Frost Fragment",
@@ -2996,8 +2895,8 @@
       "tile.inertmagicalwood.name": "Inert Magical Wood",
       "item.dustdemonic.name": "Demonic Dust",
       "item.fraglight.name": "Light Fragment",
-      "item.dustair.name": "Air Dust",
       "item.rodstoneitem.name": "Stone Rod",
+      "item.dustair.name": "Air Dust",
       "item.alchemicalsubstance.name": "Alchemical Substance",
       "item.fragwater.name": "Water Fragment",
       "item.manganeseingot.name": "Manganese Ingot",
@@ -3011,7 +2910,6 @@
       "item.flesh.name": "Flesh",
       "item.dustlight.name": "Light Dust",
       "item.suffusedarmorlegs.name": "Suffused Leggings",
-      "tile.testblockpleaseignore.name": "Test Block Please Ignore",
       "itemGroup.tabkindredcraftingots": "Kindred Craft Ingots",
       "tile.endrachite.name": "Endrachite",
       "item.infuscoliumingot.name": "Infuscolium Ingot",
