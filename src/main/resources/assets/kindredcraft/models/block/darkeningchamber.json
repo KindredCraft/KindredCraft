@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "kindredcraft:blocks/darkbottom",
+    "up": "kindredcraft:blocks/darkfront",
+    "north": "kindredcraft:blocks/darktop",
+    "east": "kindredcraft:blocks/darktop",
+    "south": "kindredcraft:blocks/darktop",
+    "west": "kindredcraft:blocks/darktop",
+    "particle": "kindredcraft:blocks/darkbottom"
+  }
+}

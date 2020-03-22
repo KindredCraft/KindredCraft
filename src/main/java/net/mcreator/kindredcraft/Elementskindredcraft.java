@@ -116,15 +116,21 @@ public class Elementskindredcraft implements IFuelHandler, IWorldGenerator {
 	public static class GuiHandler implements IGuiHandler {
 		@Override
 		public Object getServerGuiElement(int id, EntityPlayer player, World world, int x, int y, int z) {
+<<<<<<< HEAD
 			if (id == MCreatorElementalCrystalizationChamber.GUIID)
 				return new MCreatorElementalCrystalizationChamber.GuiContainerMod(world, x, y, z, player);
+=======
+>>>>>>> f2521c61ab2dce3f4544eb6c00d5d6fd67ae9b85
 			return null;
 		}
 
 		@Override
 		public Object getClientGuiElement(int id, EntityPlayer player, World world, int x, int y, int z) {
+<<<<<<< HEAD
 			if (id == MCreatorElementalCrystalizationChamber.GUIID)
 				return new MCreatorElementalCrystalizationChamber.GuiWindow(world, x, y, z, player);
+=======
+>>>>>>> f2521c61ab2dce3f4544eb6c00d5d6fd67ae9b85
 			return null;
 		}
 	}

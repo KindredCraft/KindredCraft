@@ -31,12 +31,12 @@ import net.minecraft.block.ITileEntityProvider;
 import net.minecraft.block.Block;
 
 @Elementskindredcraft.ModElement.Tag
-public class MCreatorElementalCentrifuge extends Elementskindredcraft.ModElement {
-	@GameRegistry.ObjectHolder("kindredcraft:elementalcentrifuge")
+public class MCreatorAdvancedElementalCrystallizationChamber extends Elementskindredcraft.ModElement {
+	@GameRegistry.ObjectHolder("kindredcraft:advancedelementalcrystallizationchamber")
 	public static final Block block = null;
 
-	public MCreatorElementalCentrifuge(Elementskindredcraft instance) {
-		super(instance, 378);
+	public MCreatorAdvancedElementalCrystallizationChamber(Elementskindredcraft instance) {
+		super(instance, 383);
 	}
 
 	@Override
@@ -47,21 +47,21 @@ public class MCreatorElementalCentrifuge extends Elementskindredcraft.ModElement
 
 	@Override
 	public void init(FMLInitializationEvent event) {
-		GameRegistry.registerTileEntity(TileEntityCustom.class, "kindredcraft:tileentityelementalcentrifuge");
+		GameRegistry.registerTileEntity(TileEntityCustom.class, "kindredcraft:tileentityadvancedelementalcrystallizationchamber");
 	}
 
 	@SideOnly(Side.CLIENT)
 	@Override
 	public void registerModels(ModelRegistryEvent event) {
-		ModelLoader.setCustomModelResourceLocation(Item.getItemFromBlock(block), 0, new ModelResourceLocation("kindredcraft:elementalcentrifuge",
-				"inventory"));
+		ModelLoader.setCustomModelResourceLocation(Item.getItemFromBlock(block), 0, new ModelResourceLocation(
+				"kindredcraft:advancedelementalcrystallizationchamber", "inventory"));
 	}
 
 	public static class BlockCustom extends Block implements ITileEntityProvider {
 		public BlockCustom() {
 			super(Material.ROCK);
-			setRegistryName("elementalcentrifuge");
-			setUnlocalizedName("elementalcentrifuge");
+			setRegistryName("advancedelementalcrystallizationchamber");
+			setUnlocalizedName("advancedelementalcrystallizationchamber");
 			setSoundType(SoundType.STONE);
 			setHardness(1F);
 			setResistance(10F);
@@ -139,7 +139,7 @@ public class MCreatorElementalCentrifuge extends Elementskindredcraft.ModElement
 
 		@Override
 		public String getName() {
-			return this.hasCustomName() ? this.customName : "container.elementalcentrifuge";
+			return this.hasCustomName() ? this.customName : "container.advancedelementalcrystallizationchamber";
 		}
 
 		@Override
@@ -169,7 +169,7 @@ public class MCreatorElementalCentrifuge extends Elementskindredcraft.ModElement
 
 		@Override
 		public String getGuiID() {
-			return "kindredcraft:elementalcentrifuge";
+			return "kindredcraft:advancedelementalcrystallizationchamber";
 		}
 
 		@Override

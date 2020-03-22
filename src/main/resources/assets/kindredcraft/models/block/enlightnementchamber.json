@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "kindredcraft:blocks/lightbottom",
+    "up": "kindredcraft:blocks/lightfront",
+    "north": "kindredcraft:blocks/lighttop",
+    "east": "kindredcraft:blocks/lighttop",
+    "south": "kindredcraft:blocks/lighttop",
+    "west": "kindredcraft:blocks/lighttop",
+    "particle": "kindredcraft:blocks/lightbottom"
+  }
+}
