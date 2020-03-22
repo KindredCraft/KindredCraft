@@ -66,105 +66,51 @@ public class MCreatorElementalCrystalizationChamber extends Elementskindredcraft
 			guiinventory.put("ECCIn", ECCIn);
 			ECCOut = new InventoryBasic("ECCOut", true, 16);
 			guiinventory.put("ECCOut", ECCOut);
-			this.addSlotToContainer(new Slot(ECCIn, 0, 32, 50) {
+			this.addSlotToContainer(new Slot(inherited, 0, 32, 50) {
 			});
-			this.addSlotToContainer(new Slot(ECCOut, 1, 122, 50) {
+			this.addSlotToContainer(new Slot(inherited, 1, 122, 50) {
 				@Override
 				public boolean isItemValid(ItemStack stack) {
 					return false;
 				}
 			});
-			this.addSlotToContainer(new Slot(ECCOut, 2, 122, 32) {
+			this.addSlotToContainer(new Slot(inherited, 2, 140, 86) {
 				@Override
 				public boolean isItemValid(ItemStack stack) {
 					return false;
 				}
 			});
-			this.addSlotToContainer(new Slot(ECCOut, 3, 122, 14) {
+			this.addSlotToContainer(new Slot(inherited, 3, 158, 86) {
 				@Override
 				public boolean isItemValid(ItemStack stack) {
 					return false;
 				}
 			});
-			this.addSlotToContainer(new Slot(ECCIn, 4, 104, 14) {
+			this.addSlotToContainer(new Slot(inherited, 4, 104, 32) {
 				@Override
 				public boolean isItemValid(ItemStack stack) {
 					return false;
 				}
 			});
-			this.addSlotToContainer(new Slot(ECCOut, 5, 86, 14) {
+			this.addSlotToContainer(new Slot(inherited, 5, 104, 68) {
 				@Override
 				public boolean isItemValid(ItemStack stack) {
 					return false;
 				}
 			});
-			this.addSlotToContainer(new Slot(ECCOut, 6, 122, 68) {
+			this.addSlotToContainer(new Slot(inherited, 6, 140, 68) {
 				@Override
 				public boolean isItemValid(ItemStack stack) {
 					return false;
 				}
 			});
-			this.addSlotToContainer(new Slot(ECCOut, 7, 122, 86) {
+			this.addSlotToContainer(new Slot(inherited, 8, 140, 32) {
 				@Override
 				public boolean isItemValid(ItemStack stack) {
 					return false;
 				}
 			});
-			this.addSlotToContainer(new Slot(ECCOut, 8, 140, 86) {
-				@Override
-				public boolean isItemValid(ItemStack stack) {
-					return false;
-				}
-			});
-			this.addSlotToContainer(new Slot(ECCOut, 9, 158, 86) {
-				@Override
-				public boolean isItemValid(ItemStack stack) {
-					return false;
-				}
-			});
-			this.addSlotToContainer(new Slot(ECCOut, 10, 104, 50) {
-				@Override
-				public boolean isItemValid(ItemStack stack) {
-					return false;
-				}
-			});
-			this.addSlotToContainer(new Slot(ECCOut, 11, 104, 32) {
-				@Override
-				public boolean isItemValid(ItemStack stack) {
-					return false;
-				}
-			});
-			this.addSlotToContainer(new Slot(ECCOut, 12, 104, 68) {
-				@Override
-				public boolean isItemValid(ItemStack stack) {
-					return false;
-				}
-			});
-			this.addSlotToContainer(new Slot(ECCOut, 13, 140, 68) {
-				@Override
-				public boolean isItemValid(ItemStack stack) {
-					return false;
-				}
-			});
-			this.addSlotToContainer(new Slot(ECCOut, 14, 140, 50) {
-				@Override
-				public boolean isItemValid(ItemStack stack) {
-					return false;
-				}
-			});
-			this.addSlotToContainer(new Slot(ECCOut, 15, 140, 32) {
-				@Override
-				public boolean isItemValid(ItemStack stack) {
-					return false;
-				}
-			});
-			this.addSlotToContainer(new Slot(ECCOut, 16, 68, 32) {
-				@Override
-				public boolean isItemValid(ItemStack stack) {
-					return false;
-				}
-			});
-			this.addSlotToContainer(new Slot(ECCOut, 17, 176, 68) {
+			this.addSlotToContainer(new Slot(inherited, 7, 82, 15) {
 				@Override
 				public boolean isItemValid(ItemStack stack) {
 					return false;
@@ -191,18 +137,18 @@ public class MCreatorElementalCrystalizationChamber extends Elementskindredcraft
 			if (slot != null && slot.getHasStack()) {
 				ItemStack itemstack1 = slot.getStack();
 				itemstack = itemstack1.copy();
-				if (index < 18) {
-					if (!this.mergeItemStack(itemstack1, 18, this.inventorySlots.size(), true)) {
+				if (index < 9) {
+					if (!this.mergeItemStack(itemstack1, 9, this.inventorySlots.size(), true)) {
 						return ItemStack.EMPTY;
 					}
 					slot.onSlotChange(itemstack1, itemstack);
-				} else if (!this.mergeItemStack(itemstack1, 0, 18, false)) {
-					if (index < 18 + 27) {
-						if (!this.mergeItemStack(itemstack1, 18 + 27, this.inventorySlots.size(), true)) {
+				} else if (!this.mergeItemStack(itemstack1, 0, 9, false)) {
+					if (index < 9 + 27) {
+						if (!this.mergeItemStack(itemstack1, 9 + 27, this.inventorySlots.size(), true)) {
 							return ItemStack.EMPTY;
 						}
 					} else {
-						if (!this.mergeItemStack(itemstack1, 18, 18 + 27, false)) {
+						if (!this.mergeItemStack(itemstack1, 9, 9 + 27, false)) {
 							return ItemStack.EMPTY;
 						}
 					}

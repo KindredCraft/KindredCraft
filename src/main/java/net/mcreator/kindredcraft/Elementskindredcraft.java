@@ -118,6 +118,8 @@ public class Elementskindredcraft implements IFuelHandler, IWorldGenerator {
 		public Object getServerGuiElement(int id, EntityPlayer player, World world, int x, int y, int z) {
 			if (id == MCreatorElementalCrystalizationChamber.GUIID)
 				return new MCreatorElementalCrystalizationChamber.GuiContainerMod(world, x, y, z, player);
+			if (id == MCreatorTestGui.GUIID)
+				return new MCreatorTestGui.GuiContainerMod(world, x, y, z, player);
 			return null;
 		}
 
@@ -125,6 +127,8 @@ public class Elementskindredcraft implements IFuelHandler, IWorldGenerator {
 		public Object getClientGuiElement(int id, EntityPlayer player, World world, int x, int y, int z) {
 			if (id == MCreatorElementalCrystalizationChamber.GUIID)
 				return new MCreatorElementalCrystalizationChamber.GuiWindow(world, x, y, z, player);
+			if (id == MCreatorTestGui.GUIID)
+				return new MCreatorTestGui.GuiWindow(world, x, y, z, player);
 			return null;
 		}
 	}

@@ -157,6 +157,34 @@ public class MCreatorElementalCentrifuge extends Elementskindredcraft.ModElement
 				return 0;
 		}
 
+		@Override
+		public void onBlockAdded(World world, BlockPos pos, IBlockState state) {
+			super.onBlockAdded(world, pos, state);
+			int x = pos.getX();
+			int y = pos.getY();
+			int z = pos.getZ();
+			Block block = this;
+			world.scheduleUpdate(new BlockPos(x, y, z), this, this.tickRate(world));
+		}
+
+		@Override
+		public void updateTick(World world, BlockPos pos, IBlockState state, Random random) {
+			super.updateTick(world, pos, state, random);
+			int x = pos.getX();
+			int y = pos.getY();
+			int z = pos.getZ();
+			Block block = this;
+			{
+				java.util.HashMap<String, Object> $_dependencies = new java.util.HashMap<>();
+				$_dependencies.put("x", x);
+				$_dependencies.put("y", y);
+				$_dependencies.put("z", z);
+				$_dependencies.put("world", world);
+				MCreatorElementalSeperator.executeProcedure($_dependencies);
+			}
+			world.scheduleUpdate(new BlockPos(x, y, z), this, this.tickRate(world));
+		}
+
 		@SideOnly(Side.CLIENT)
 		@Override
 		public void randomDisplayTick(IBlockState state, World world, BlockPos pos, Random random) {
@@ -204,11 +232,11 @@ public class MCreatorElementalCentrifuge extends Elementskindredcraft.ModElement
 	}
 
 	public static class TileEntityCustom extends TileEntityLockableLoot {
-		private NonNullList<ItemStack> stacks = NonNullList.<ItemStack> withSize(18, ItemStack.EMPTY);
+		private NonNullList<ItemStack> stacks = NonNullList.<ItemStack> withSize(19, ItemStack.EMPTY);
 
 		@Override
 		public int getSizeInventory() {
-			return 18;
+			return 19;
 		}
 
 		@Override
@@ -221,40 +249,6 @@ public class MCreatorElementalCentrifuge extends Elementskindredcraft.ModElement
 
 		@Override
 		public boolean isItemValidForSlot(int index, ItemStack stack) {
-			if (index == 1)
-				return false;
-			if (index == 2)
-				return false;
-			if (index == 3)
-				return false;
-			if (index == 4)
-				return false;
-			if (index == 5)
-				return false;
-			if (index == 6)
-				return false;
-			if (index == 7)
-				return false;
-			if (index == 8)
-				return false;
-			if (index == 9)
-				return false;
-			if (index == 10)
-				return false;
-			if (index == 11)
-				return false;
-			if (index == 12)
-				return false;
-			if (index == 13)
-				return false;
-			if (index == 14)
-				return false;
-			if (index == 15)
-				return false;
-			if (index == 16)
-				return false;
-			if (index == 17)
-				return false;
 			return true;
 		}
 
