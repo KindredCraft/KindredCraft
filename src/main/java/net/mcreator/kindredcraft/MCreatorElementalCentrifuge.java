@@ -157,6 +157,34 @@ public class MCreatorElementalCentrifuge extends Elementskindredcraft.ModElement
 				return 0;
 		}
 
+		@Override
+		public void onBlockAdded(World world, BlockPos pos, IBlockState state) {
+			super.onBlockAdded(world, pos, state);
+			int x = pos.getX();
+			int y = pos.getY();
+			int z = pos.getZ();
+			Block block = this;
+			world.scheduleUpdate(new BlockPos(x, y, z), this, this.tickRate(world));
+		}
+
+		@Override
+		public void updateTick(World world, BlockPos pos, IBlockState state, Random random) {
+			super.updateTick(world, pos, state, random);
+			int x = pos.getX();
+			int y = pos.getY();
+			int z = pos.getZ();
+			Block block = this;
+			{
+				java.util.HashMap<String, Object> $_dependencies = new java.util.HashMap<>();
+				$_dependencies.put("x", x);
+				$_dependencies.put("y", y);
+				$_dependencies.put("z", z);
+				$_dependencies.put("world", world);
+				MCreatorElementalCenrifuge.executeProcedure($_dependencies);
+			}
+			world.scheduleUpdate(new BlockPos(x, y, z), this, this.tickRate(world));
+		}
+
 		@SideOnly(Side.CLIENT)
 		@Override
 		public void randomDisplayTick(IBlockState state, World world, BlockPos pos, Random random) {

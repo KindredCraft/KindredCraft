@@ -91,6 +91,9 @@
     "onRightClicked": {
       "name": "ElementalCentrifugeOnBlockRightClicked"
     },
+    "onTickUpdate": {
+      "name": "ElementalCenrifuge"
+    },
     "spawnWorldTypes": [],
     "restrictionBiomes": [],
     "blocksToReplace": [],

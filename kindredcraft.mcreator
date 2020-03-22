@@ -2465,7 +2465,7 @@
       "name": "ElementalCentrifuge",
       "type": "block",
       "sortid": 329,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "ids": {}
     },
