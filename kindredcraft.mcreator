@@ -2896,56 +2896,6 @@
           }
         ]
       }
-    },
-    {
-      "name": "TestBlockPleaseIgnore",
-      "type": "block",
-      "sortid": 379,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "TestGui",
-      "type": "gui",
-      "sortid": 380,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {
-        "0": 2
-      }
-    },
-    {
-      "name": "TestBlockPleaseIgnoreOnBlockRightClicked",
-      "type": "procedure",
-      "sortid": 381,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "int"
-          },
-          {
-            "name": "y",
-            "type": "int"
-          },
-          {
-            "name": "z",
-            "type": "int"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      }
     }
   ],
   "variable_elements": [],
@@ -2954,8 +2904,8 @@
     "en_us": {
       "itemGroup.tabkindredcraftblocks": "Kindred Craft Blocks",
       "tile.magichite.name": "Magichite",
-      "item.suffusedaxe.name": "Suffused Axe",
       "tile.nethrachite.name": "Nethrachite",
+      "item.suffusedaxe.name": "Suffused Axe",
       "item.dustclay.name": "Clay Dust",
       "item.lemuriteingot.name": "Lemurite Ingot",
       "item.dustfire.name": "Fire Dust",
@@ -2978,8 +2928,8 @@
       "item.dustdeath.name": "Dust Death",
       "item.cobaltingot.name": "Cobalt Ingot",
       "item.orichalcumingot.name": "Orichalcum Ingot",
-      "item.shadowironingot.name": "Shadow Iron Ingot",
       "item.dustlife.name": "Life Dust",
+      "item.shadowironingot.name": "Shadow Iron Ingot",
       "item.copperingot.name": "Copper Ingot",
       "item.iridiumingot.name": "Iridium Ingot",
       "item.nickelingot.name": "Nickel Ingot",
@@ -2991,8 +2941,8 @@
       "item.zincingot.name": "Zinc Ingot",
       "item.tiningot.name": "Tin Ingot",
       "item.uraniumingot.name": "Uranium Ingot",
-      "itemGroup.tabkindredcraftitems": "Kindred Craft Items",
       "item.arditeingot.name": "Ardite Ingot",
+      "itemGroup.tabkindredcraftitems": "Kindred Craft Items",
       "tile.inertmagicalwood.name": "Inert Magical Wood",
       "item.dustdemonic.name": "Demonic Dust",
       "item.fraglight.name": "Light Fragment",
@@ -3011,7 +2961,6 @@
       "item.flesh.name": "Flesh",
       "item.dustlight.name": "Light Dust",
       "item.suffusedarmorlegs.name": "Suffused Leggings",
-      "tile.testblockpleaseignore.name": "Test Block Please Ignore",
       "itemGroup.tabkindredcraftingots": "Kindred Craft Ingots",
       "tile.endrachite.name": "Endrachite",
       "item.infuscoliumingot.name": "Infuscolium Ingot",

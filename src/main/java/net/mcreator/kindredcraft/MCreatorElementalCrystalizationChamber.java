@@ -68,49 +68,31 @@ public class MCreatorElementalCrystalizationChamber extends Elementskindredcraft
 			guiinventory.put("ECCOut", ECCOut);
 			this.addSlotToContainer(new Slot(inherited, 0, 32, 50) {
 			});
-			this.addSlotToContainer(new Slot(inherited, 1, 122, 50) {
+			this.addSlotToContainer(new Slot(inherited, 5, 122, 50) {
 				@Override
 				public boolean isItemValid(ItemStack stack) {
 					return false;
 				}
 			});
-			this.addSlotToContainer(new Slot(inherited, 2, 140, 86) {
+			this.addSlotToContainer(new Slot(inherited, 1, 104, 32) {
 				@Override
 				public boolean isItemValid(ItemStack stack) {
 					return false;
 				}
 			});
-			this.addSlotToContainer(new Slot(inherited, 3, 158, 86) {
+			this.addSlotToContainer(new Slot(inherited, 3, 104, 68) {
 				@Override
 				public boolean isItemValid(ItemStack stack) {
 					return false;
 				}
 			});
-			this.addSlotToContainer(new Slot(inherited, 4, 104, 32) {
+			this.addSlotToContainer(new Slot(inherited, 4, 140, 68) {
 				@Override
 				public boolean isItemValid(ItemStack stack) {
 					return false;
 				}
 			});
-			this.addSlotToContainer(new Slot(inherited, 5, 104, 68) {
-				@Override
-				public boolean isItemValid(ItemStack stack) {
-					return false;
-				}
-			});
-			this.addSlotToContainer(new Slot(inherited, 6, 140, 68) {
-				@Override
-				public boolean isItemValid(ItemStack stack) {
-					return false;
-				}
-			});
-			this.addSlotToContainer(new Slot(inherited, 8, 140, 32) {
-				@Override
-				public boolean isItemValid(ItemStack stack) {
-					return false;
-				}
-			});
-			this.addSlotToContainer(new Slot(inherited, 7, 82, 15) {
+			this.addSlotToContainer(new Slot(inherited, 2, 140, 32) {
 				@Override
 				public boolean isItemValid(ItemStack stack) {
 					return false;
@@ -137,18 +119,18 @@ public class MCreatorElementalCrystalizationChamber extends Elementskindredcraft
 			if (slot != null && slot.getHasStack()) {
 				ItemStack itemstack1 = slot.getStack();
 				itemstack = itemstack1.copy();
-				if (index < 9) {
-					if (!this.mergeItemStack(itemstack1, 9, this.inventorySlots.size(), true)) {
+				if (index < 6) {
+					if (!this.mergeItemStack(itemstack1, 6, this.inventorySlots.size(), true)) {
 						return ItemStack.EMPTY;
 					}
 					slot.onSlotChange(itemstack1, itemstack);
-				} else if (!this.mergeItemStack(itemstack1, 0, 9, false)) {
-					if (index < 9 + 27) {
-						if (!this.mergeItemStack(itemstack1, 9 + 27, this.inventorySlots.size(), true)) {
+				} else if (!this.mergeItemStack(itemstack1, 0, 6, false)) {
+					if (index < 6 + 27) {
+						if (!this.mergeItemStack(itemstack1, 6 + 27, this.inventorySlots.size(), true)) {
 							return ItemStack.EMPTY;
 						}
 					} else {
-						if (!this.mergeItemStack(itemstack1, 9, 9 + 27, false)) {
+						if (!this.mergeItemStack(itemstack1, 6, 6 + 27, false)) {
 							return ItemStack.EMPTY;
 						}
 					}
