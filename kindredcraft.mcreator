@@ -2825,29 +2825,6 @@
       "sortid": 378,
       "compiles": true,
       "locked_code": false,
-<<<<<<< HEAD
-      "ids": {},
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "int"
-          },
-          {
-            "name": "y",
-            "type": "int"
-          },
-          {
-            "name": "z",
-            "type": "int"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      }
-=======
       "ids": {}
     },
     {
@@ -2905,7 +2882,34 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
->>>>>>> f2521c61ab2dce3f4544eb6c00d5d6fd67ae9b85
+    },
+    {
+      "name": "ElementalCentrifugePro",
+      "type": "procedure",
+      "sortid": 386,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -2914,8 +2918,8 @@
     "en_us": {
       "itemGroup.tabkindredcraftblocks": "Kindred Craft Blocks",
       "tile.magichite.name": "Magichite",
-      "tile.nethrachite.name": "Nethrachite",
       "item.suffusedaxe.name": "Suffused Axe",
+      "tile.nethrachite.name": "Nethrachite",
       "item.dustclay.name": "Clay Dust",
       "item.lemuriteingot.name": "Lemurite Ingot",
       "item.dustfire.name": "Fire Dust",
@@ -2939,8 +2943,8 @@
       "item.dustdeath.name": "Dust Death",
       "item.cobaltingot.name": "Cobalt Ingot",
       "item.orichalcumingot.name": "Orichalcum Ingot",
-      "item.dustlife.name": "Life Dust",
       "item.shadowironingot.name": "Shadow Iron Ingot",
+      "item.dustlife.name": "Life Dust",
       "item.copperingot.name": "Copper Ingot",
       "item.iridiumingot.name": "Iridium Ingot",
       "item.nickelingot.name": "Nickel Ingot",
@@ -2952,8 +2956,8 @@
       "item.zincingot.name": "Zinc Ingot",
       "item.tiningot.name": "Tin Ingot",
       "item.uraniumingot.name": "Uranium Ingot",
-      "item.arditeingot.name": "Ardite Ingot",
       "itemGroup.tabkindredcraftitems": "Kindred Craft Items",
+      "item.arditeingot.name": "Ardite Ingot",
       "tile.inertmagicalwood.name": "Inert Magical Wood",
       "item.dustdemonic.name": "Demonic Dust",
       "tile.advancedelementalcrystallizationchamber.name": "Advanced Elemental Crystallization Chamber",
