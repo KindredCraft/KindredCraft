@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "kindredcraft:blocks/beginnerbottom",
+    "up": "kindredcraft:blocks/beginnerbottom",
+    "north": "kindredcraft:blocks/elemental_crystalization_chamber",
+    "east": "kindredcraft:blocks/beginnerbottom",
+    "south": "kindredcraft:blocks/beginnerbottom",
+    "west": "kindredcraft:blocks/beginnerbottom",
+    "particle": "kindredcraft:blocks/beginnerbottom"
+  }
+}

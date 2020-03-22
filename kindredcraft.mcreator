@@ -2820,32 +2820,68 @@
       "ids": {}
     },
     {
-      "name": "ElementalSeperator",
-      "type": "procedure",
+      "name": "ElementalCentrifuge",
+      "type": "block",
       "sortid": 378,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "int"
-          },
-          {
-            "name": "y",
-            "type": "int"
-          },
-          {
-            "name": "z",
-            "type": "int"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      }
+      "ids": {}
+    },
+    {
+      "name": "ElementalCrystallizationChamber",
+      "type": "block",
+      "sortid": 379,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FragmentCollisionChamber",
+      "type": "block",
+      "sortid": 380,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BasicElementalCrystallizationChamber",
+      "type": "block",
+      "sortid": 381,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ChaosCollisionChamber",
+      "type": "block",
+      "sortid": 382,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AdvancedElementalCrystallizationChamber",
+      "type": "block",
+      "sortid": 383,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EnlightnementChamber",
+      "type": "block",
+      "sortid": 384,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "DarkeningChamber",
+      "type": "block",
+      "sortid": 385,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -2865,10 +2901,12 @@
       "item.fragearth.name": "Earth Fragment",
       "item.fraglightning.name": "Lightning Fragment",
       "item.dustfrost.name": "Dust Frost",
+      "tile.elementalcrystallizationchamber.name": "Elemental Crystallization Chamber",
       "item.suffusedshovel.name": "Suffused Shovel",
       "item.alduoriteingot.name": "Alduorite Ingot",
       "advancements.mygoditsfullofstars.descr": "Through hard work you have moved forward along your path. Lets start Alchemy!",
       "item.oureclaseingot.name": "Oureclase Ingot",
+      "tile.elementalcentrifuge.name": "Elemental Centrifuge",
       "item.dustearth.name": "Dust Earth",
       "item.flintscraper.name": "Flint Scraper",
       "item.fragfrost.name": "Frost Fragment",
@@ -2894,6 +2932,8 @@
       "item.arditeingot.name": "Ardite Ingot",
       "tile.inertmagicalwood.name": "Inert Magical Wood",
       "item.dustdemonic.name": "Demonic Dust",
+      "tile.advancedelementalcrystallizationchamber.name": "Advanced Elemental Crystallization Chamber",
+      "tile.enlightnementchamber.name": "Enlightnement Chamber",
       "item.fraglight.name": "Light Fragment",
       "item.rodstoneitem.name": "Stone Rod",
       "item.dustair.name": "Air Dust",
@@ -2950,9 +2990,13 @@
       "item.kindredcoal.name": "Kindred Coal",
       "item.atlarusingot.name": "Atlarus Ingot",
       "item.suffusediron.name": "Suffused Iron",
+      "tile.chaoscollisionchamber.name": "Chaos Collision Chamber",
       "tile.kindredcoalblock.name": "Kindred Coal Block",
       "item.fragdemonic.name": "Demonic Fragment",
-      "item.dustshadow.name": "Dust Shadow"
+      "tile.fragmentcollisionchamber.name": "Fragment Collision Chamber",
+      "tile.darkeningchamber.name": "Darkening Chamber",
+      "item.dustshadow.name": "Dust Shadow",
+      "tile.basicelementalcrystallizationchamber.name": "Basic Elemental Crystallization Chamber"
     }
   },
   "workspaceSettings": {
