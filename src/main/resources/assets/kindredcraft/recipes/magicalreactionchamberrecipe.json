@@ -1,0 +1,42 @@
+{
+  "group": "kindredcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "kindredcraft:superconductivebearing"
+    },
+    "1": {
+      "item": "kindredcraft:suffucedplate"
+    },
+    "2": {
+      "item": "kindredcraft:superconductivebearing"
+    },
+    "3": {
+      "item": "kindredcraft:nagativechamber"
+    },
+    "4": {
+      "item": "kindredcraft:chaoticcasing"
+    },
+    "5": {
+      "item": "kindredcraft:positivechamber"
+    },
+    "6": {
+      "item": "kindredcraft:superconductivebearing"
+    },
+    "7": {
+      "item": "kindredcraft:suffucedplate"
+    },
+    "8": {
+      "item": "kindredcraft:superconductivebearing"
+    }
+  },
+  "result": {
+    "item": "kindredcraft:magicalreactionchamber",
+    "count": 1
+  }
+}

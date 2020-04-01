@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "kindredcraft:ordercollisionchamber"
+    },
+    "facing=north": {
+      "model": "kindredcraft:ordercollisionchamber"
+    },
+    "facing=east": {
+      "model": "kindredcraft:ordercollisionchamber",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "kindredcraft:ordercollisionchamber",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "kindredcraft:ordercollisionchamber",
+      "y": 270
+    }
+  }
+}

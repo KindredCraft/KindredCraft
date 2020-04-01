@@ -1,0 +1,42 @@
+{
+  "group": "kindredcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:redstone"
+    },
+    "1": {
+      "item": "minecraft:iron_bars"
+    },
+    "2": {
+      "item": "minecraft:redstone"
+    },
+    "3": {
+      "item": "kindredcraft:ironplate"
+    },
+    "4": {
+      "item": "kindredcraft:dustmagichite"
+    },
+    "5": {
+      "item": "kindredcraft:ironplate"
+    },
+    "6": {
+      "item": "minecraft:redstone"
+    },
+    "7": {
+      "item": "minecraft:iron_bars"
+    },
+    "8": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "kindredcraft:machinecasing",
+    "count": 1
+  }
+}

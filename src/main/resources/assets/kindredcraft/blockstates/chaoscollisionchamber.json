@@ -2,6 +2,21 @@
   "variants": {
     "normal": {
       "model": "kindredcraft:chaoscollisionchamber"
+    },
+    "facing=north": {
+      "model": "kindredcraft:chaoscollisionchamber"
+    },
+    "facing=east": {
+      "model": "kindredcraft:chaoscollisionchamber",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "kindredcraft:chaoscollisionchamber",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "kindredcraft:chaoscollisionchamber",
+      "y": 270
     }
   }
 }

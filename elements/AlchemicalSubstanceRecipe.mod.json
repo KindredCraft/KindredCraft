@@ -1,13 +1,11 @@
 {
-  "_fv": 5,
+  "_fv": 6,
   "_type": "recipe",
   "definition": {
     "recipeType": "Crafting",
+    "xpReward": 0.0,
     "recipeRetstackSize": 16,
     "recipeShapeless": false,
-    "recipeReturnStack": {
-      "value": "CUSTOM:AlchemicalSubstance"
-    },
     "recipeSlots": [
       {
         "value": "Items.POTIONITEM"
@@ -37,8 +35,9 @@
         "value": "Blocks.SAPLING"
       }
     ],
-    "smeltingXPReward": 0.0,
-    "smeltingRetstackSize": 1,
+    "recipeReturnStack": {
+      "value": "CUSTOM:AlchemicalSubstance"
+    },
     "name": "alchemicalsubstancerecipe",
     "namespace": "mod"
   }

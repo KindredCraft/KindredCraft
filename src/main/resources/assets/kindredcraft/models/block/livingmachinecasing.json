@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "kindredcraft:blocks/livingcasing",
+    "up": "kindredcraft:blocks/livingcasing",
+    "north": "kindredcraft:blocks/livingcasing",
+    "east": "kindredcraft:blocks/livingcasing",
+    "south": "kindredcraft:blocks/livingcasing",
+    "west": "kindredcraft:blocks/livingcasing",
+    "particle": "kindredcraft:blocks/livingcasing"
+  }
+}

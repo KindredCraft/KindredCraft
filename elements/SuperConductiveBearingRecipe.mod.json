@@ -1,0 +1,44 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:FragLightning"
+      },
+      {
+        "value": "CUSTOM:SuffucedPlate"
+      },
+      {
+        "value": "CUSTOM:FragLightning"
+      },
+      {
+        "value": "CUSTOM:FragLightning"
+      },
+      {
+        "value": "CUSTOM:Bearing"
+      },
+      {
+        "value": "CUSTOM:FragLightning"
+      },
+      {
+        "value": "CUSTOM:FragLightning"
+      },
+      {
+        "value": "CUSTOM:IronPlate"
+      },
+      {
+        "value": "CUSTOM:FragLightning"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SuperConductiveBearing"
+    },
+    "name": "superconductivebearingrecipe",
+    "namespace": "mod"
+  }
+}

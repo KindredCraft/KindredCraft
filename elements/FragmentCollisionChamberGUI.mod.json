@@ -1,0 +1,89 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 0,
+          "name": "Slot #0",
+          "x": 300,
+          "y": 88
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 1,
+          "name": "Slot #1",
+          "x": 516,
+          "y": 88
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 2,
+          "name": "Slot #2",
+          "x": 408,
+          "y": 178
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "FCC",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "FCC",
+          "x": 264,
+          "y": 96
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Inventory",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Inventory",
+          "x": 264,
+          "y": 204
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrow-45.png",
+          "name": "arrow-45.png",
+          "x": 426,
+          "y": 106
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrow45.png",
+          "name": "arrow45.png",
+          "x": 300,
+          "y": 106
+        }
+      }
+    ]
+  }
+}

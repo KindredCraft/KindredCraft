@@ -4,9 +4,9 @@
     "down": "kindredcraft:blocks/darkbottom",
     "up": "kindredcraft:blocks/darkfront",
     "north": "kindredcraft:blocks/darktop",
-    "east": "kindredcraft:blocks/darktop",
-    "south": "kindredcraft:blocks/darktop",
-    "west": "kindredcraft:blocks/darktop",
+    "east": "kindredcraft:blocks/darkbottom",
+    "south": "kindredcraft:blocks/darkbottom",
+    "west": "kindredcraft:blocks/darkbottom",
     "particle": "kindredcraft:blocks/darkbottom"
   }
 }

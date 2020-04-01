@@ -1,0 +1,178 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 448,
+    "height": 448,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:FragFrost"
+          },
+          "color": {
+            "value": -16711681,
+            "falpha": 0.0
+          },
+          "id": 0,
+          "name": "Slot #0",
+          "x": 300,
+          "y": 24
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:FragWater"
+          },
+          "color": {
+            "value": -16777063,
+            "falpha": 0.0
+          },
+          "id": 1,
+          "name": "Slot #1",
+          "x": 336,
+          "y": 60
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:FragLife"
+          },
+          "color": {
+            "value": -16738048,
+            "falpha": 0.0
+          },
+          "id": 5,
+          "name": "Slot #5",
+          "x": 408,
+          "y": 96
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "color": {
+            "value": -13421824,
+            "falpha": 0.0
+          },
+          "id": 2,
+          "name": "Slot #2",
+          "x": 408,
+          "y": 150
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "id": 6,
+          "name": "Slot #6",
+          "x": 300,
+          "y": 150
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "id": 7,
+          "name": "Slot #7",
+          "x": 516,
+          "y": 150
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:FragEarth"
+          },
+          "color": {
+            "value": -13421824,
+            "falpha": 0.0
+          },
+          "id": 3,
+          "name": "Slot #3",
+          "x": 480,
+          "y": 60
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:FragMagma"
+          },
+          "color": {
+            "value": -13434880,
+            "falpha": 0.0
+          },
+          "id": 4,
+          "name": "Slot #4",
+          "x": 516,
+          "y": 24
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "noun_chaos_11477.png",
+          "name": "noun_chaos_11477.png",
+          "x": 323,
+          "y": 114
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "noun_chaos_11477 - copy.png",
+          "name": "noun_chaos_11477 - copy.png",
+          "x": 431,
+          "y": 114
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "CCC",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "CCC",
+          "x": 215,
+          "y": 24
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Inventory",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Inventory",
+          "x": 269,
+          "y": 204
+        }
+      }
+    ]
+  }
+}

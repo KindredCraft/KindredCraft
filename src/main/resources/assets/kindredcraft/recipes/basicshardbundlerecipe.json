@@ -1,0 +1,25 @@
+{
+  "group": "kindredcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kindredcraft:fraglife"
+    },
+    {
+      "item": "kindredcraft:fragfire"
+    },
+    {
+      "item": "kindredcraft:fragwater"
+    },
+    {
+      "item": "kindredcraft:fragair"
+    },
+    {
+      "item": "kindredcraft:fragearth"
+    }
+  ],
+  "result": {
+    "item": "kindredcraft:basicshardbundle",
+    "count": 1
+  }
+}

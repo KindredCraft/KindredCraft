@@ -1,0 +1,44 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 2,
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:AdvancedElementalCircuit"
+      },
+      {
+        "value": "Items.NETHER_STAR"
+      },
+      {
+        "value": "CUSTOM:AdvancedElementalCircuit"
+      },
+      {
+        "value": "CUSTOM:FragLightning"
+      },
+      {
+        "value": "CUSTOM:Chamber"
+      },
+      {
+        "value": "CUSTOM:FragLightning"
+      },
+      {
+        "value": "Blocks.QUARTZ_BLOCK"
+      },
+      {
+        "value": "Blocks.QUARTZ_BLOCK"
+      },
+      {
+        "value": "Blocks.QUARTZ_BLOCK"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PositiveChamber"
+    },
+    "name": "positivechamberrecipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "kindredcraft:blocks/lightbottom",
+    "up": "kindredcraft:blocks/basepannel",
+    "north": "kindredcraft:blocks/injector",
+    "east": "kindredcraft:blocks/injector",
+    "south": "kindredcraft:blocks/injector",
+    "west": "kindredcraft:blocks/injector",
+    "particle": "kindredcraft:blocks/lightbottom"
+  }
+}

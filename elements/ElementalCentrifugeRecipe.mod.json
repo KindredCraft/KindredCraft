@@ -1,0 +1,44 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.REDSTONE"
+      },
+      {
+        "value": "CUSTOM:BasicCircuit"
+      },
+      {
+        "value": "Items.REDSTONE"
+      },
+      {
+        "value": "Items.LAVA_BUCKET"
+      },
+      {
+        "value": "CUSTOM:MachineCasing"
+      },
+      {
+        "value": "Items.WATER_BUCKET"
+      },
+      {
+        "value": "CUSTOM:Chamber"
+      },
+      {
+        "value": "CUSTOM:Bearing"
+      },
+      {
+        "value": "CUSTOM:Chamber"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ElementalCentrifuge"
+    },
+    "name": "elementalcentrifugerecipe",
+    "namespace": "mod"
+  }
+}

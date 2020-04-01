@@ -1,13 +1,11 @@
 {
-  "_fv": 5,
+  "_fv": 6,
   "_type": "recipe",
   "definition": {
     "recipeType": "Crafting",
+    "xpReward": 0.0,
     "recipeRetstackSize": 8,
     "recipeShapeless": false,
-    "recipeReturnStack": {
-      "value": "Blocks.GRAVEL"
-    },
     "recipeSlots": [
       {
         "value": "Blocks.SANDSTONE#0"
@@ -37,8 +35,9 @@
         "value": "Blocks.SANDSTONE#0"
       }
     ],
-    "smeltingXPReward": 0.0,
-    "smeltingRetstackSize": 1,
+    "recipeReturnStack": {
+      "value": "Blocks.GRAVEL"
+    },
     "name": "alcsandstonetogravel",
     "namespace": "mod"
   }

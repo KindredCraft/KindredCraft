@@ -1,0 +1,44 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.REDSTONE"
+      },
+      {
+        "value": "CUSTOM:AdvancedElementalCircuit"
+      },
+      {
+        "value": "Items.REDSTONE"
+      },
+      {
+        "value": "CUSTOM:FragFrost"
+      },
+      {
+        "value": "CUSTOM:ChaoticCasing"
+      },
+      {
+        "value": "CUSTOM:FragMagma"
+      },
+      {
+        "value": "CUSTOM:Chamber"
+      },
+      {
+        "value": "CUSTOM:AdvancedElementalCircuit"
+      },
+      {
+        "value": "CUSTOM:Chamber"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AdvancedElementalCrystallizationChamber"
+    },
+    "name": "advancedelementalcrystalchamber",
+    "namespace": "mod"
+  }
+}

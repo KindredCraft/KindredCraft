@@ -1,0 +1,124 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 448,
+    "height": 448,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 0,
+          "name": "Slot #0",
+          "x": 264,
+          "y": 114
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "color": {
+            "value": -13382656,
+            "falpha": 0.0
+          },
+          "id": 5,
+          "name": "Slot #5",
+          "x": 516,
+          "y": 114
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "color": {
+            "value": -3355444,
+            "falpha": 0.0
+          },
+          "id": 1,
+          "name": "Slot #1",
+          "x": 480,
+          "y": 78
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "color": {
+            "value": -65485,
+            "falpha": 0.0
+          },
+          "id": 2,
+          "name": "Slot #2",
+          "x": 552,
+          "y": 78
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "color": {
+            "value": -16777012,
+            "falpha": 0.0
+          },
+          "id": 3,
+          "name": "Slot #3",
+          "x": 480,
+          "y": 150
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "color": {
+            "value": -13421824,
+            "falpha": 0.0
+          },
+          "id": 4,
+          "name": "Slot #4",
+          "x": 552,
+          "y": 150
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Elemental Centrifuge",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Elemental Centrifuge",
+          "x": 210,
+          "y": 24
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Inventory",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Inventory",
+          "x": 264,
+          "y": 204
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrow2.png",
+          "name": "arrow2.png",
+          "x": 336,
+          "y": 68
+        }
+      }
+    ]
+  }
+}

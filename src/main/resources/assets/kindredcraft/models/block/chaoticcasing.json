@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "kindredcraft:blocks/chaoticcasing",
+    "up": "kindredcraft:blocks/chaoticcasing",
+    "north": "kindredcraft:blocks/chaoticcasing",
+    "east": "kindredcraft:blocks/chaoticcasing",
+    "south": "kindredcraft:blocks/chaoticcasing",
+    "west": "kindredcraft:blocks/chaoticcasing",
+    "particle": "kindredcraft:blocks/chaoticcasing"
+  }
+}

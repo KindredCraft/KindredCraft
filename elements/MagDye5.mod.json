@@ -1,13 +1,11 @@
 {
-  "_fv": 5,
+  "_fv": 6,
   "_type": "recipe",
   "definition": {
     "recipeType": "Crafting",
+    "xpReward": 0.0,
     "recipeRetstackSize": 6,
     "recipeShapeless": true,
-    "recipeReturnStack": {
-      "value": "Items.DYE#4"
-    },
     "recipeSlots": [
       {
         "value": "Items.DYE#4"
@@ -37,8 +35,9 @@
         "value": ""
       }
     ],
-    "smeltingXPReward": 0.0,
-    "smeltingRetstackSize": 1,
+    "recipeReturnStack": {
+      "value": "Items.DYE#4"
+    },
     "name": "magdye5",
     "namespace": "mod"
   }

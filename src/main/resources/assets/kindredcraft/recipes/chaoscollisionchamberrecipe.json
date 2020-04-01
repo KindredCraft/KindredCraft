@@ -1,0 +1,42 @@
+{
+  "group": "kindredcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "kindredcraft:elementalcircuit"
+    },
+    "1": {
+      "item": "kindredcraft:advancedelementalcircuit"
+    },
+    "2": {
+      "item": "kindredcraft:elementalcircuit"
+    },
+    "3": {
+      "item": "minecraft:obsidian"
+    },
+    "4": {
+      "item": "kindredcraft:chaoticcasing"
+    },
+    "5": {
+      "item": "minecraft:obsidian"
+    },
+    "6": {
+      "item": "minecraft:diamond"
+    },
+    "7": {
+      "item": "kindredcraft:superconductivebearing"
+    },
+    "8": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "kindredcraft:chaoscollisionchamber",
+    "count": 1
+  }
+}

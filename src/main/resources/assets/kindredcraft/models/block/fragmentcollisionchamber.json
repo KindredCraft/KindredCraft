@@ -3,7 +3,7 @@
   "textures": {
     "down": "kindredcraft:blocks/intermediatebottom",
     "up": "kindredcraft:blocks/elementalcollisionchamber",
-    "north": "kindredcraft:blocks/intermediatebottom",
+    "north": "kindredcraft:blocks/greenflowv2",
     "east": "kindredcraft:blocks/intermediatebottom",
     "south": "kindredcraft:blocks/intermediatebottom",
     "west": "kindredcraft:blocks/intermediatebottom",

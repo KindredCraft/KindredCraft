@@ -1,0 +1,44 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:SuperConductiveBearing"
+      },
+      {
+        "value": "CUSTOM:SuffucedPlate"
+      },
+      {
+        "value": "CUSTOM:SuperConductiveBearing"
+      },
+      {
+        "value": "CUSTOM:NagativeChamber"
+      },
+      {
+        "value": "CUSTOM:ChaoticCasing"
+      },
+      {
+        "value": "CUSTOM:PositiveChamber"
+      },
+      {
+        "value": "CUSTOM:SuperConductiveBearing"
+      },
+      {
+        "value": "CUSTOM:SuffucedPlate"
+      },
+      {
+        "value": "CUSTOM:SuperConductiveBearing"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MagicalReactionChamber"
+    },
+    "name": "magicalreactionchamberrecipe",
+    "namespace": "mod"
+  }
+}

@@ -2,6 +2,21 @@
   "variants": {
     "normal": {
       "model": "kindredcraft:basicelementalcrystallizationchamber"
+    },
+    "facing=north": {
+      "model": "kindredcraft:basicelementalcrystallizationchamber"
+    },
+    "facing=east": {
+      "model": "kindredcraft:basicelementalcrystallizationchamber",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "kindredcraft:basicelementalcrystallizationchamber",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "kindredcraft:basicelementalcrystallizationchamber",
+      "y": 270
     }
   }
 }

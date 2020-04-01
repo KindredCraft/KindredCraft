@@ -1,0 +1,44 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:BasicCircuit"
+      },
+      {
+        "value": "CUSTOM:ElementalCircuit"
+      },
+      {
+        "value": "CUSTOM:BasicCircuit"
+      },
+      {
+        "value": "Blocks.OBSIDIAN"
+      },
+      {
+        "value": "CUSTOM:LivingMachineCasing"
+      },
+      {
+        "value": "Blocks.OBSIDIAN"
+      },
+      {
+        "value": "CUSTOM:Chamber"
+      },
+      {
+        "value": "CUSTOM:Bearing"
+      },
+      {
+        "value": "CUSTOM:Chamber"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:FragmentCollisionChamber"
+    },
+    "name": "fragmentcollisionchamberrecipe",
+    "namespace": "mod"
+  }
+}

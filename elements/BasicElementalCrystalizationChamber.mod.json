@@ -1,0 +1,111 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 0,
+          "name": "Slot #0",
+          "x": 390,
+          "y": 96
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "ECC",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "ECC",
+          "x": 264,
+          "y": 96
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Inventory",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Inventory",
+          "x": 264,
+          "y": 204
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "x9",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "x9",
+          "x": 480,
+          "y": 96
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 1,
+          "name": "Slot #1",
+          "x": 444,
+          "y": 96
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrowdownsmall.png",
+          "name": "arrowdownsmall.png",
+          "x": 398,
+          "y": 96
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrowdownsmall1.png",
+          "name": "arrowdownsmall1.png",
+          "x": 344,
+          "y": 96
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 2,
+          "name": "Slot #2",
+          "x": 390,
+          "y": 186
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 3,
+          "name": "Slot #3",
+          "x": 444,
+          "y": 186
+        }
+      }
+    ]
+  }
+}

@@ -2,6 +2,21 @@
   "variants": {
     "normal": {
       "model": "kindredcraft:darkeningchamber"
+    },
+    "facing=north": {
+      "model": "kindredcraft:darkeningchamber"
+    },
+    "facing=east": {
+      "model": "kindredcraft:darkeningchamber",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "kindredcraft:darkeningchamber",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "kindredcraft:darkeningchamber",
+      "y": 270
     }
   }
 }

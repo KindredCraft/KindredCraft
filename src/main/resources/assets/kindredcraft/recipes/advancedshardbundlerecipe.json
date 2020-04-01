@@ -1,0 +1,25 @@
+{
+  "group": "kindredcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kindredcraft:fraglightning"
+    },
+    {
+      "item": "kindredcraft:fragmagma"
+    },
+    {
+      "item": "kindredcraft:fragfrost"
+    },
+    {
+      "item": "kindredcraft:fragmentclay"
+    },
+    {
+      "item": "kindredcraft:fraglife"
+    }
+  ],
+  "result": {
+    "item": "kindredcraft:advancedshardbundle",
+    "count": 1
+  }
+}

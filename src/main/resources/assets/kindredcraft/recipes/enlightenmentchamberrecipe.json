@@ -1,0 +1,42 @@
+{
+  "group": "kindredcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "kindredcraft:advancedelementalcircuit"
+    },
+    "1": {
+      "item": "kindredcraft:superconductivebearing"
+    },
+    "2": {
+      "item": "kindredcraft:advancedelementalcircuit"
+    },
+    "3": {
+      "item": "kindredcraft:fraglightning"
+    },
+    "4": {
+      "item": "kindredcraft:chaoticcasing"
+    },
+    "5": {
+      "item": "kindredcraft:fraglightning"
+    },
+    "6": {
+      "item": "kindredcraft:positivechamber"
+    },
+    "7": {
+      "item": "kindredcraft:superconductivebearing"
+    },
+    "8": {
+      "item": "kindredcraft:positivechamber"
+    }
+  },
+  "result": {
+    "item": "kindredcraft:enlightnementchamber",
+    "count": 1
+  }
+}

@@ -4,9 +4,9 @@
     "down": "kindredcraft:blocks/ecc_bottom",
     "up": "kindredcraft:blocks/advancedcollision",
     "north": "kindredcraft:blocks/purpleflow",
-    "east": "kindredcraft:blocks/purpleflow",
-    "south": "kindredcraft:blocks/purpleflow",
-    "west": "kindredcraft:blocks/purpleflow",
+    "east": "kindredcraft:blocks/chaoscc",
+    "south": "kindredcraft:blocks/chaoscc",
+    "west": "kindredcraft:blocks/chaoscc",
     "particle": "kindredcraft:blocks/ecc_bottom"
   }
 }

@@ -2,6 +2,21 @@
   "variants": {
     "normal": {
       "model": "kindredcraft:fragmentcollisionchamber"
+    },
+    "facing=north": {
+      "model": "kindredcraft:fragmentcollisionchamber"
+    },
+    "facing=east": {
+      "model": "kindredcraft:fragmentcollisionchamber",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "kindredcraft:fragmentcollisionchamber",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "kindredcraft:fragmentcollisionchamber",
+      "y": 270
     }
   }
 }

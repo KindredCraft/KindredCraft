@@ -1,15 +1,15 @@
 {
-  "_fv": 5,
+  "_fv": 6,
   "_type": "item",
   "definition": {
     "renderType": 0,
     "texture": "dustwater",
     "customModelName": "Normal",
-    "name": "Dust Water",
+    "name": "Water Dust",
     "creativeTab": {
       "value": "CUSTOM:KindredCraftItems"
     },
-    "stackSize": 16,
+    "stackSize": 64,
     "enchantability": 0,
     "useDuration": 0,
     "toolType": 1.0,

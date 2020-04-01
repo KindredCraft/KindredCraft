@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "kindredcraft:blocks/basepannel",
+    "up": "kindredcraft:blocks/basepannel",
+    "north": "kindredcraft:blocks/basepannel",
+    "east": "kindredcraft:blocks/basepannel",
+    "south": "kindredcraft:blocks/basepannel",
+    "west": "kindredcraft:blocks/basepannel",
+    "particle": "kindredcraft:blocks/basepannel"
+  }
+}

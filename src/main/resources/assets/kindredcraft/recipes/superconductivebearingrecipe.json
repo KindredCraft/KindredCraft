@@ -1,0 +1,42 @@
+{
+  "group": "kindredcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "kindredcraft:fraglightning"
+    },
+    "1": {
+      "item": "kindredcraft:suffucedplate"
+    },
+    "2": {
+      "item": "kindredcraft:fraglightning"
+    },
+    "3": {
+      "item": "kindredcraft:fraglightning"
+    },
+    "4": {
+      "item": "kindredcraft:bearing"
+    },
+    "5": {
+      "item": "kindredcraft:fraglightning"
+    },
+    "6": {
+      "item": "kindredcraft:fraglightning"
+    },
+    "7": {
+      "item": "kindredcraft:ironplate"
+    },
+    "8": {
+      "item": "kindredcraft:fraglightning"
+    }
+  },
+  "result": {
+    "item": "kindredcraft:superconductivebearing",
+    "count": 1
+  }
+}

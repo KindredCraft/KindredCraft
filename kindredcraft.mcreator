@@ -1,6 +1,6 @@
 {
   "id_map": {
-    "GUI": 2
+    "GUI": 8
   },
   "mod_elements": [
     {
@@ -14,7 +14,7 @@
     {
       "name": "Magichite",
       "type": "block",
-      "sortid": 2,
+      "sortid": 56,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -22,7 +22,7 @@
     {
       "name": "Nethrachite",
       "type": "block",
-      "sortid": 3,
+      "sortid": 55,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -30,7 +30,7 @@
     {
       "name": "Endrachite",
       "type": "block",
-      "sortid": 4,
+      "sortid": 54,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -38,7 +38,7 @@
     {
       "name": "KindredCraftItems",
       "type": "tab",
-      "sortid": 5,
+      "sortid": 103,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -46,7 +46,7 @@
     {
       "name": "KindredCraftBlocks",
       "type": "tab",
-      "sortid": 6,
+      "sortid": 104,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -54,7 +54,7 @@
     {
       "name": "MagDiamond",
       "type": "recipe",
-      "sortid": 7,
+      "sortid": 105,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -62,7 +62,7 @@
     {
       "name": "MagObsWtr",
       "type": "recipe",
-      "sortid": 8,
+      "sortid": 106,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -70,7 +70,7 @@
     {
       "name": "MagObsWtrAlt",
       "type": "recipe",
-      "sortid": 9,
+      "sortid": 107,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -78,7 +78,7 @@
     {
       "name": "MagEmerald",
       "type": "recipe",
-      "sortid": 10,
+      "sortid": 108,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -86,7 +86,7 @@
     {
       "name": "Maggold",
       "type": "recipe",
-      "sortid": 11,
+      "sortid": 109,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -94,7 +94,7 @@
     {
       "name": "MagBlaze",
       "type": "recipe",
-      "sortid": 12,
+      "sortid": 110,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -102,7 +102,7 @@
     {
       "name": "MagRodBlztoDst",
       "type": "recipe",
-      "sortid": 13,
+      "sortid": 111,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -110,7 +110,7 @@
     {
       "name": "MagLeather",
       "type": "recipe",
-      "sortid": 14,
+      "sortid": 112,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -118,7 +118,7 @@
     {
       "name": "MagIron",
       "type": "recipe",
-      "sortid": 15,
+      "sortid": 113,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -126,7 +126,7 @@
     {
       "name": "MagCoal",
       "type": "recipe",
-      "sortid": 16,
+      "sortid": 114,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -134,7 +134,7 @@
     {
       "name": "SuffusedCoal",
       "type": "item",
-      "sortid": 17,
+      "sortid": 32,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -142,7 +142,7 @@
     {
       "name": "KindredCoal",
       "type": "item",
-      "sortid": 18,
+      "sortid": 33,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -150,7 +150,7 @@
     {
       "name": "KindredCoalBlock",
       "type": "block",
-      "sortid": 19,
+      "sortid": 52,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -158,7 +158,7 @@
     {
       "name": "MagRedstone",
       "type": "recipe",
-      "sortid": 20,
+      "sortid": 115,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -166,7 +166,7 @@
     {
       "name": "MagGlowstone",
       "type": "recipe",
-      "sortid": 21,
+      "sortid": 116,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -174,7 +174,7 @@
     {
       "name": "MagObsidian",
       "type": "recipe",
-      "sortid": 22,
+      "sortid": 117,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -182,7 +182,7 @@
     {
       "name": "MagSand",
       "type": "recipe",
-      "sortid": 23,
+      "sortid": 118,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -190,7 +190,7 @@
     {
       "name": "MagCoalOre",
       "type": "recipe",
-      "sortid": 24,
+      "sortid": 119,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -198,7 +198,7 @@
     {
       "name": "MagRedstoneOre",
       "type": "recipe",
-      "sortid": 25,
+      "sortid": 120,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -206,7 +206,7 @@
     {
       "name": "MagNetherQuartz",
       "type": "recipe",
-      "sortid": 26,
+      "sortid": 121,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -214,7 +214,7 @@
     {
       "name": "MagClayClump",
       "type": "recipe",
-      "sortid": 27,
+      "sortid": 122,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -222,7 +222,7 @@
     {
       "name": "MagPork",
       "type": "recipe",
-      "sortid": 28,
+      "sortid": 123,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -230,7 +230,7 @@
     {
       "name": "MagSteak",
       "type": "recipe",
-      "sortid": 29,
+      "sortid": 124,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -238,7 +238,7 @@
     {
       "name": "MagDiamondOre",
       "type": "recipe",
-      "sortid": 30,
+      "sortid": 125,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -246,7 +246,7 @@
     {
       "name": "MagLapisOre",
       "type": "recipe",
-      "sortid": 31,
+      "sortid": 126,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -254,7 +254,7 @@
     {
       "name": "MagCactus",
       "type": "recipe",
-      "sortid": 32,
+      "sortid": 127,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -262,7 +262,7 @@
     {
       "name": "MagChicken",
       "type": "recipe",
-      "sortid": 33,
+      "sortid": 128,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -270,7 +270,7 @@
     {
       "name": "MagicTreeCoal1",
       "type": "recipe",
-      "sortid": 34,
+      "sortid": 129,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -278,7 +278,7 @@
     {
       "name": "MagWoodCharcoal2",
       "type": "recipe",
-      "sortid": 35,
+      "sortid": 130,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -286,7 +286,7 @@
     {
       "name": "MagIronOre",
       "type": "recipe",
-      "sortid": 36,
+      "sortid": 131,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -294,7 +294,7 @@
     {
       "name": "MagFish",
       "type": "recipe",
-      "sortid": 37,
+      "sortid": 132,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -302,7 +302,7 @@
     {
       "name": "MagEmeraldOre",
       "type": "recipe",
-      "sortid": 38,
+      "sortid": 133,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -310,7 +310,7 @@
     {
       "name": "MagPotato",
       "type": "recipe",
-      "sortid": 39,
+      "sortid": 134,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -318,7 +318,7 @@
     {
       "name": "MagCobble",
       "type": "recipe",
-      "sortid": 40,
+      "sortid": 135,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -326,7 +326,7 @@
     {
       "name": "MagGoldOre",
       "type": "recipe",
-      "sortid": 41,
+      "sortid": 136,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -334,7 +334,7 @@
     {
       "name": "MagClay",
       "type": "recipe",
-      "sortid": 42,
+      "sortid": 137,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -342,7 +342,7 @@
     {
       "name": "MagCottaClay",
       "type": "recipe",
-      "sortid": 43,
+      "sortid": 138,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -350,7 +350,7 @@
     {
       "name": "MagCottaAlt",
       "type": "recipe",
-      "sortid": 44,
+      "sortid": 139,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -358,7 +358,7 @@
     {
       "name": "MagNether",
       "type": "recipe",
-      "sortid": 45,
+      "sortid": 140,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -366,7 +366,7 @@
     {
       "name": "MagBoneMeal",
       "type": "recipe",
-      "sortid": 46,
+      "sortid": 141,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -374,7 +374,7 @@
     {
       "name": "MagDye1",
       "type": "recipe",
-      "sortid": 47,
+      "sortid": 142,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -382,7 +382,7 @@
     {
       "name": "MagDye2",
       "type": "recipe",
-      "sortid": 48,
+      "sortid": 143,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -390,7 +390,7 @@
     {
       "name": "MagDye3",
       "type": "recipe",
-      "sortid": 49,
+      "sortid": 144,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -398,7 +398,7 @@
     {
       "name": "MagDye4",
       "type": "recipe",
-      "sortid": 50,
+      "sortid": 145,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -406,7 +406,7 @@
     {
       "name": "MagDye5",
       "type": "recipe",
-      "sortid": 51,
+      "sortid": 146,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -414,7 +414,7 @@
     {
       "name": "MagDye6",
       "type": "recipe",
-      "sortid": 52,
+      "sortid": 147,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -422,7 +422,7 @@
     {
       "name": "MagDye7",
       "type": "recipe",
-      "sortid": 53,
+      "sortid": 148,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -430,7 +430,7 @@
     {
       "name": "MagDye8",
       "type": "recipe",
-      "sortid": 54,
+      "sortid": 149,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -438,7 +438,7 @@
     {
       "name": "MagDye9",
       "type": "recipe",
-      "sortid": 55,
+      "sortid": 150,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -446,7 +446,7 @@
     {
       "name": "MagDye10",
       "type": "recipe",
-      "sortid": 56,
+      "sortid": 151,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -454,7 +454,7 @@
     {
       "name": "MagDye11",
       "type": "recipe",
-      "sortid": 57,
+      "sortid": 152,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -462,7 +462,7 @@
     {
       "name": "MagDye12",
       "type": "recipe",
-      "sortid": 58,
+      "sortid": 153,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -470,7 +470,7 @@
     {
       "name": "MagDye13",
       "type": "recipe",
-      "sortid": 59,
+      "sortid": 154,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -478,7 +478,7 @@
     {
       "name": "MagDye14",
       "type": "recipe",
-      "sortid": 60,
+      "sortid": 155,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -486,7 +486,7 @@
     {
       "name": "MagDye15",
       "type": "recipe",
-      "sortid": 61,
+      "sortid": 156,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -494,7 +494,7 @@
     {
       "name": "MagDye16",
       "type": "recipe",
-      "sortid": 62,
+      "sortid": 157,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -502,7 +502,7 @@
     {
       "name": "MagDye17",
       "type": "recipe",
-      "sortid": 63,
+      "sortid": 158,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -510,7 +510,7 @@
     {
       "name": "MagDye18",
       "type": "recipe",
-      "sortid": 64,
+      "sortid": 159,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -518,7 +518,7 @@
     {
       "name": "SuffusedFuel",
       "type": "fuel",
-      "sortid": 65,
+      "sortid": 160,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -526,7 +526,7 @@
     {
       "name": "KindredCoalRecipe",
       "type": "recipe",
-      "sortid": 66,
+      "sortid": 161,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -534,7 +534,7 @@
     {
       "name": "KindredCoalBlockUncraft",
       "type": "recipe",
-      "sortid": 67,
+      "sortid": 162,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -542,7 +542,7 @@
     {
       "name": "KindredCoalFuel",
       "type": "fuel",
-      "sortid": 68,
+      "sortid": 163,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -550,7 +550,7 @@
     {
       "name": "KindredCoalBlockFuel",
       "type": "fuel",
-      "sortid": 69,
+      "sortid": 164,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -558,7 +558,7 @@
     {
       "name": "SuffusedCoalBlock",
       "type": "block",
-      "sortid": 70,
+      "sortid": 53,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -566,7 +566,7 @@
     {
       "name": "SuffusedCoalBlockRecipe",
       "type": "recipe",
-      "sortid": 71,
+      "sortid": 165,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -574,7 +574,7 @@
     {
       "name": "SuffusedCoalBlockUncrafting",
       "type": "recipe",
-      "sortid": 72,
+      "sortid": 166,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -582,7 +582,7 @@
     {
       "name": "SuffusedCoalBlockFuel",
       "type": "fuel",
-      "sortid": 73,
+      "sortid": 167,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -590,7 +590,7 @@
     {
       "name": "RodStonetoStick",
       "type": "recipe",
-      "sortid": 74,
+      "sortid": 168,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -598,7 +598,7 @@
     {
       "name": "RodStone",
       "type": "recipe",
-      "sortid": 75,
+      "sortid": 169,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -606,7 +606,7 @@
     {
       "name": "RodStoneItem",
       "type": "item",
-      "sortid": 76,
+      "sortid": 37,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -614,7 +614,7 @@
     {
       "name": "RodStoneAltRecipe",
       "type": "recipe",
-      "sortid": 77,
+      "sortid": 170,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -622,7 +622,7 @@
     {
       "name": "FlintScraper",
       "type": "item",
-      "sortid": 78,
+      "sortid": 38,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -630,7 +630,7 @@
     {
       "name": "FlintScraperRecipe",
       "type": "recipe",
-      "sortid": 79,
+      "sortid": 171,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -638,7 +638,7 @@
     {
       "name": "LightRottenFlesh",
       "type": "item",
-      "sortid": 80,
+      "sortid": 39,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -646,7 +646,7 @@
     {
       "name": "LightRottenFleshRecipe",
       "type": "recipe",
-      "sortid": 81,
+      "sortid": 172,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -654,7 +654,7 @@
     {
       "name": "Flesh",
       "type": "food",
-      "sortid": 82,
+      "sortid": 40,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -662,7 +662,7 @@
     {
       "name": "FleshRecipe",
       "type": "recipe",
-      "sortid": 83,
+      "sortid": 173,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -670,7 +670,7 @@
     {
       "name": "FleshtoLeatherRecipe",
       "type": "recipe",
-      "sortid": 84,
+      "sortid": 174,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -678,7 +678,7 @@
     {
       "name": "EmptyAlchemyJar",
       "type": "item",
-      "sortid": 85,
+      "sortid": 36,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -686,7 +686,7 @@
     {
       "name": "AlchemyJarRecipe",
       "type": "recipe",
-      "sortid": 86,
+      "sortid": 175,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -694,7 +694,7 @@
     {
       "name": "ParticleBoard",
       "type": "block",
-      "sortid": 87,
+      "sortid": 51,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -702,7 +702,7 @@
     {
       "name": "StopperedAlchamyJar",
       "type": "recipe",
-      "sortid": 88,
+      "sortid": 176,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -710,7 +710,7 @@
     {
       "name": "StopperedEmptyAlchemyJar",
       "type": "item",
-      "sortid": 89,
+      "sortid": 35,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -718,7 +718,7 @@
     {
       "name": "EmptyAlchemyJarAlt",
       "type": "recipe",
-      "sortid": 90,
+      "sortid": 177,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -726,7 +726,7 @@
     {
       "name": "ParticleBoardRecipe",
       "type": "recipe",
-      "sortid": 91,
+      "sortid": 178,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -734,7 +734,7 @@
     {
       "name": "SpruceParticle",
       "type": "recipe",
-      "sortid": 92,
+      "sortid": 179,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -742,7 +742,7 @@
     {
       "name": "OakParticle",
       "type": "recipe",
-      "sortid": 93,
+      "sortid": 180,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -750,7 +750,7 @@
     {
       "name": "ParticleBurch",
       "type": "recipe",
-      "sortid": 94,
+      "sortid": 181,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -758,7 +758,7 @@
     {
       "name": "ParticleJungle",
       "type": "recipe",
-      "sortid": 95,
+      "sortid": 182,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -766,7 +766,7 @@
     {
       "name": "ParticleDark",
       "type": "recipe",
-      "sortid": 96,
+      "sortid": 183,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -774,7 +774,7 @@
     {
       "name": "ParticleAcacia",
       "type": "recipe",
-      "sortid": 97,
+      "sortid": 184,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -782,7 +782,7 @@
     {
       "name": "AlchemicalSubstance",
       "type": "item",
-      "sortid": 98,
+      "sortid": 34,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -790,7 +790,7 @@
     {
       "name": "AlchemicalSubstanceRecipe",
       "type": "recipe",
-      "sortid": 99,
+      "sortid": 185,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -798,7 +798,7 @@
     {
       "name": "AlchemicalSubstanceAlt",
       "type": "recipe",
-      "sortid": 100,
+      "sortid": 186,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -806,7 +806,7 @@
     {
       "name": "AlcCoal",
       "type": "recipe",
-      "sortid": 101,
+      "sortid": 187,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -814,7 +814,7 @@
     {
       "name": "AlcCoalRegular",
       "type": "recipe",
-      "sortid": 102,
+      "sortid": 188,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -822,7 +822,7 @@
     {
       "name": "AlcGoldtoIron",
       "type": "recipe",
-      "sortid": 103,
+      "sortid": 189,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -830,7 +830,7 @@
     {
       "name": "AlcIrontoGold",
       "type": "recipe",
-      "sortid": 104,
+      "sortid": 190,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -838,7 +838,7 @@
     {
       "name": "AlcDiamondtoGold",
       "type": "recipe",
-      "sortid": 105,
+      "sortid": 191,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -846,7 +846,7 @@
     {
       "name": "AlcGoldtoDiamond",
       "type": "recipe",
-      "sortid": 106,
+      "sortid": 192,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -854,7 +854,7 @@
     {
       "name": "AlchStone",
       "type": "recipe",
-      "sortid": 107,
+      "sortid": 193,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -862,7 +862,7 @@
     {
       "name": "AlchDirtSand",
       "type": "recipe",
-      "sortid": 108,
+      "sortid": 194,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -870,7 +870,7 @@
     {
       "name": "AlchSandDirt",
       "type": "recipe",
-      "sortid": 109,
+      "sortid": 195,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -878,7 +878,7 @@
     {
       "name": "AlchGrasstoSand",
       "type": "recipe",
-      "sortid": 110,
+      "sortid": 196,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -886,7 +886,7 @@
     {
       "name": "AlchGraveltoSandstone",
       "type": "recipe",
-      "sortid": 111,
+      "sortid": 197,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -894,7 +894,7 @@
     {
       "name": "AlcSandstonetoGravel",
       "type": "recipe",
-      "sortid": 112,
+      "sortid": 198,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -902,7 +902,7 @@
     {
       "name": "AlchWatertoIce",
       "type": "recipe",
-      "sortid": 113,
+      "sortid": 199,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -910,7 +910,7 @@
     {
       "name": "MelontoPumpkin",
       "type": "recipe",
-      "sortid": 114,
+      "sortid": 200,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -918,7 +918,7 @@
     {
       "name": "AlchPumpkintoMelon",
       "type": "recipe",
-      "sortid": 115,
+      "sortid": 201,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -926,7 +926,7 @@
     {
       "name": "AlchStonetoGrass",
       "type": "recipe",
-      "sortid": 116,
+      "sortid": 202,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -934,7 +934,7 @@
     {
       "name": "AlchCobbletoGrass",
       "type": "recipe",
-      "sortid": 117,
+      "sortid": 203,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -942,7 +942,7 @@
     {
       "name": "AlcGrasstoCobblestone",
       "type": "recipe",
-      "sortid": 118,
+      "sortid": 204,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -950,7 +950,7 @@
     {
       "name": "AlchSandtoCobblestone",
       "type": "recipe",
-      "sortid": 119,
+      "sortid": 205,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -958,7 +958,7 @@
     {
       "name": "AlchDirttoCobble",
       "type": "recipe",
-      "sortid": 120,
+      "sortid": 206,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -966,7 +966,7 @@
     {
       "name": "AlchMycl",
       "type": "recipe",
-      "sortid": 121,
+      "sortid": 207,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -974,7 +974,7 @@
     {
       "name": "MagLavaCube",
       "type": "recipe",
-      "sortid": 122,
+      "sortid": 208,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -982,7 +982,7 @@
     {
       "name": "SlimeScraping",
       "type": "recipe",
-      "sortid": 123,
+      "sortid": 209,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -990,7 +990,7 @@
     {
       "name": "SuffusedIron",
       "type": "item",
-      "sortid": 124,
+      "sortid": 57,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -998,7 +998,7 @@
     {
       "name": "SuffusedIronRecipe",
       "type": "recipe",
-      "sortid": 125,
+      "sortid": 210,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1006,7 +1006,7 @@
     {
       "name": "FlintScraperTinkers",
       "type": "recipe",
-      "sortid": 141,
+      "sortid": 211,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1014,7 +1014,7 @@
     {
       "name": "SuffusedCoalRecipe",
       "type": "recipe",
-      "sortid": 142,
+      "sortid": 212,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1022,7 +1022,7 @@
     {
       "name": "Mygoditsfullofstars",
       "type": "achievement",
-      "sortid": 143,
+      "sortid": 213,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1030,7 +1030,7 @@
     {
       "name": "KindredCraftIngots",
       "type": "tab",
-      "sortid": 144,
+      "sortid": 214,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1038,7 +1038,7 @@
     {
       "name": "AdamantineIngot",
       "type": "item",
-      "sortid": 145,
+      "sortid": 58,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1046,7 +1046,7 @@
     {
       "name": "AlduoriteIngot",
       "type": "item",
-      "sortid": 146,
+      "sortid": 59,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1054,7 +1054,7 @@
     {
       "name": "AluminumIngot",
       "type": "item",
-      "sortid": 147,
+      "sortid": 60,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1062,7 +1062,7 @@
     {
       "name": "Apatiteingot",
       "type": "item",
-      "sortid": 149,
+      "sortid": 61,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1070,7 +1070,7 @@
     {
       "name": "Arditeingot",
       "type": "item",
-      "sortid": 150,
+      "sortid": 62,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1078,7 +1078,7 @@
     {
       "name": "AstralSilveringot",
       "type": "item",
-      "sortid": 151,
+      "sortid": 63,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1086,7 +1086,7 @@
     {
       "name": "Atlarusingot",
       "type": "item",
-      "sortid": 152,
+      "sortid": 64,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1094,7 +1094,7 @@
     {
       "name": "Carmotingot",
       "type": "item",
-      "sortid": 153,
+      "sortid": 65,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1102,7 +1102,7 @@
     {
       "name": "Ceruclaseingot",
       "type": "item",
-      "sortid": 154,
+      "sortid": 66,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1110,7 +1110,7 @@
     {
       "name": "Cobaltingot",
       "type": "item",
-      "sortid": 155,
+      "sortid": 67,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1118,7 +1118,7 @@
     {
       "name": "Copperingot",
       "type": "item",
-      "sortid": 156,
+      "sortid": 68,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1126,7 +1126,7 @@
     {
       "name": "DeepIroningot",
       "type": "item",
-      "sortid": 157,
+      "sortid": 69,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1134,7 +1134,7 @@
     {
       "name": "Eximiteingot",
       "type": "item",
-      "sortid": 158,
+      "sortid": 70,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1142,7 +1142,7 @@
     {
       "name": "Ignatiusingot",
       "type": "item",
-      "sortid": 159,
+      "sortid": 71,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1150,7 +1150,7 @@
     {
       "name": "Infuscoliumingot",
       "type": "item",
-      "sortid": 160,
+      "sortid": 72,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1158,7 +1158,7 @@
     {
       "name": "Iridiumingot",
       "type": "item",
-      "sortid": 161,
+      "sortid": 73,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1166,7 +1166,7 @@
     {
       "name": "Kalendriteingot",
       "type": "item",
-      "sortid": 162,
+      "sortid": 74,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1174,7 +1174,7 @@
     {
       "name": "Leadingot",
       "type": "item",
-      "sortid": 163,
+      "sortid": 75,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1182,7 +1182,7 @@
     {
       "name": "Lemuriteingot",
       "type": "item",
-      "sortid": 164,
+      "sortid": 76,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1190,7 +1190,7 @@
     {
       "name": "Manganeseingot",
       "type": "item",
-      "sortid": 165,
+      "sortid": 77,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1198,7 +1198,7 @@
     {
       "name": "Meutoiteingot",
       "type": "item",
-      "sortid": 166,
+      "sortid": 78,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1206,7 +1206,7 @@
     {
       "name": "Midasiumingot",
       "type": "item",
-      "sortid": 167,
+      "sortid": 79,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1214,7 +1214,7 @@
     {
       "name": "Mythrilingot",
       "type": "item",
-      "sortid": 168,
+      "sortid": 80,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1222,7 +1222,7 @@
     {
       "name": "Nickelingot",
       "type": "item",
-      "sortid": 169,
+      "sortid": 81,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1230,7 +1230,7 @@
     {
       "name": "Orichalcumingot",
       "type": "item",
-      "sortid": 170,
+      "sortid": 95,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1238,7 +1238,7 @@
     {
       "name": "Oureclaseingot",
       "type": "item",
-      "sortid": 171,
+      "sortid": 82,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1246,7 +1246,7 @@
     {
       "name": "Platinumingot",
       "type": "item",
-      "sortid": 172,
+      "sortid": 83,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1254,7 +1254,7 @@
     {
       "name": "Prometheumingot",
       "type": "item",
-      "sortid": 173,
+      "sortid": 84,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1262,7 +1262,7 @@
     {
       "name": "Rubraciumingot",
       "type": "item",
-      "sortid": 174,
+      "sortid": 85,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1270,7 +1270,7 @@
     {
       "name": "Sanguiniteingot",
       "type": "item",
-      "sortid": 175,
+      "sortid": 86,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1278,7 +1278,7 @@
     {
       "name": "ShadowIroningot",
       "type": "item",
-      "sortid": 176,
+      "sortid": 87,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1286,7 +1286,7 @@
     {
       "name": "Siliconingot",
       "type": "item",
-      "sortid": 177,
+      "sortid": 88,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1294,7 +1294,7 @@
     {
       "name": "Silveringot",
       "type": "item",
-      "sortid": 178,
+      "sortid": 89,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1302,7 +1302,7 @@
     {
       "name": "Tiningot",
       "type": "item",
-      "sortid": 179,
+      "sortid": 90,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1310,7 +1310,7 @@
     {
       "name": "Uraniumingot",
       "type": "item",
-      "sortid": 180,
+      "sortid": 91,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1318,7 +1318,7 @@
     {
       "name": "Vulcaniteingot",
       "type": "item",
-      "sortid": 181,
+      "sortid": 96,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1326,7 +1326,7 @@
     {
       "name": "Vyroxeresingot",
       "type": "item",
-      "sortid": 182,
+      "sortid": 92,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1334,7 +1334,7 @@
     {
       "name": "Zincingot",
       "type": "item",
-      "sortid": 183,
+      "sortid": 93,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1342,7 +1342,7 @@
     {
       "name": "SuffusedIronTag",
       "type": "tag",
-      "sortid": 184,
+      "sortid": 215,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1350,7 +1350,7 @@
     {
       "name": "IngotAdamantine",
       "type": "tag",
-      "sortid": 185,
+      "sortid": 216,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1358,7 +1358,7 @@
     {
       "name": "GemApatite",
       "type": "tag",
-      "sortid": 188,
+      "sortid": 217,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1366,7 +1366,7 @@
     {
       "name": "IngotArdite",
       "type": "tag",
-      "sortid": 189,
+      "sortid": 218,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1374,7 +1374,7 @@
     {
       "name": "IngotAstralSilver",
       "type": "tag",
-      "sortid": 190,
+      "sortid": 219,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1382,7 +1382,7 @@
     {
       "name": "IngotAtlarus",
       "type": "tag",
-      "sortid": 191,
+      "sortid": 220,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1390,7 +1390,7 @@
     {
       "name": "IngotCarmot",
       "type": "tag",
-      "sortid": 192,
+      "sortid": 221,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1398,7 +1398,7 @@
     {
       "name": "IngotCeruclase",
       "type": "tag",
-      "sortid": 193,
+      "sortid": 222,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1406,7 +1406,7 @@
     {
       "name": "IngotCobalt",
       "type": "tag",
-      "sortid": 194,
+      "sortid": 223,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1414,7 +1414,7 @@
     {
       "name": "IngotDeepIron",
       "type": "tag",
-      "sortid": 195,
+      "sortid": 224,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1422,7 +1422,7 @@
     {
       "name": "IngotEximite",
       "type": "tag",
-      "sortid": 196,
+      "sortid": 225,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1430,7 +1430,7 @@
     {
       "name": "IngotIgnatius",
       "type": "tag",
-      "sortid": 197,
+      "sortid": 226,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1438,7 +1438,7 @@
     {
       "name": "IngotInfuscolium",
       "type": "tag",
-      "sortid": 198,
+      "sortid": 227,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1446,7 +1446,7 @@
     {
       "name": "IngotIridium",
       "type": "tag",
-      "sortid": 199,
+      "sortid": 228,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1454,7 +1454,7 @@
     {
       "name": "IngotKalendrite",
       "type": "tag",
-      "sortid": 200,
+      "sortid": 229,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1462,7 +1462,7 @@
     {
       "name": "IngotLemurite",
       "type": "tag",
-      "sortid": 202,
+      "sortid": 230,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1470,7 +1470,7 @@
     {
       "name": "IngotManganese",
       "type": "tag",
-      "sortid": 203,
+      "sortid": 231,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1478,7 +1478,7 @@
     {
       "name": "IngotMeutoite",
       "type": "tag",
-      "sortid": 204,
+      "sortid": 232,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1486,7 +1486,7 @@
     {
       "name": "IngotMidasium",
       "type": "tag",
-      "sortid": 205,
+      "sortid": 233,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1494,7 +1494,7 @@
     {
       "name": "Ingotmythril",
       "type": "tag",
-      "sortid": 206,
+      "sortid": 234,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1502,7 +1502,7 @@
     {
       "name": "IngotNickel",
       "type": "tag",
-      "sortid": 207,
+      "sortid": 235,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1510,7 +1510,7 @@
     {
       "name": "IngotOrichalcum",
       "type": "tag",
-      "sortid": 208,
+      "sortid": 236,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1518,7 +1518,7 @@
     {
       "name": "IngotOureclase",
       "type": "tag",
-      "sortid": 209,
+      "sortid": 237,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1526,7 +1526,7 @@
     {
       "name": "IngotPlatinum",
       "type": "tag",
-      "sortid": 210,
+      "sortid": 238,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1534,7 +1534,7 @@
     {
       "name": "IngotPrometheum",
       "type": "tag",
-      "sortid": 211,
+      "sortid": 239,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1542,7 +1542,7 @@
     {
       "name": "IngotRubracium",
       "type": "tag",
-      "sortid": 212,
+      "sortid": 240,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1550,7 +1550,7 @@
     {
       "name": "IngotShadowIron",
       "type": "tag",
-      "sortid": 214,
+      "sortid": 241,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1558,7 +1558,7 @@
     {
       "name": "ItemSilicon",
       "type": "tag",
-      "sortid": 215,
+      "sortid": 242,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1566,7 +1566,7 @@
     {
       "name": "IngotSilver",
       "type": "tag",
-      "sortid": 216,
+      "sortid": 243,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1574,7 +1574,7 @@
     {
       "name": "IngotTin",
       "type": "tag",
-      "sortid": 217,
+      "sortid": 244,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1582,7 +1582,7 @@
     {
       "name": "IngotUranium",
       "type": "tag",
-      "sortid": 218,
+      "sortid": 245,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1590,7 +1590,7 @@
     {
       "name": "IngotVulcanite",
       "type": "tag",
-      "sortid": 219,
+      "sortid": 246,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1598,7 +1598,7 @@
     {
       "name": "IngotVyroxeres",
       "type": "tag",
-      "sortid": 220,
+      "sortid": 247,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1606,7 +1606,7 @@
     {
       "name": "IngotZinc",
       "type": "tag",
-      "sortid": 221,
+      "sortid": 248,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1614,7 +1614,7 @@
     {
       "name": "MagAdamantine",
       "type": "recipe",
-      "sortid": 222,
+      "sortid": 249,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1622,7 +1622,7 @@
     {
       "name": "MagAlduorite",
       "type": "recipe",
-      "sortid": 223,
+      "sortid": 250,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1630,7 +1630,7 @@
     {
       "name": "MagAluminum",
       "type": "recipe",
-      "sortid": 224,
+      "sortid": 251,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1638,7 +1638,7 @@
     {
       "name": "MagApatite",
       "type": "recipe",
-      "sortid": 225,
+      "sortid": 252,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1646,7 +1646,7 @@
     {
       "name": "MagOreAdamantine",
       "type": "recipe",
-      "sortid": 226,
+      "sortid": 253,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1654,7 +1654,7 @@
     {
       "name": "MagOreAlduorite",
       "type": "recipe",
-      "sortid": 227,
+      "sortid": 254,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1662,7 +1662,7 @@
     {
       "name": "MagOreAluminum",
       "type": "recipe",
-      "sortid": 228,
+      "sortid": 255,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1670,7 +1670,7 @@
     {
       "name": "MagOreApatite",
       "type": "recipe",
-      "sortid": 229,
+      "sortid": 256,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1678,7 +1678,7 @@
     {
       "name": "MagOreArdite",
       "type": "recipe",
-      "sortid": 230,
+      "sortid": 257,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1686,7 +1686,7 @@
     {
       "name": "MagArdite",
       "type": "recipe",
-      "sortid": 231,
+      "sortid": 258,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1694,7 +1694,7 @@
     {
       "name": "MagOreAstralSilver",
       "type": "recipe",
-      "sortid": 232,
+      "sortid": 259,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1702,7 +1702,7 @@
     {
       "name": "OreAtlarus",
       "type": "recipe",
-      "sortid": 233,
+      "sortid": 260,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1710,7 +1710,7 @@
     {
       "name": "MagOreCarmot",
       "type": "recipe",
-      "sortid": 234,
+      "sortid": 261,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1718,7 +1718,7 @@
     {
       "name": "MagIngotAstralSilver",
       "type": "recipe",
-      "sortid": 235,
+      "sortid": 262,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1726,7 +1726,7 @@
     {
       "name": "MagIngotAtlarus",
       "type": "recipe",
-      "sortid": 236,
+      "sortid": 263,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1734,7 +1734,7 @@
     {
       "name": "MagIngotCarmot",
       "type": "recipe",
-      "sortid": 237,
+      "sortid": 264,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1742,7 +1742,7 @@
     {
       "name": "MagOreCeruclase",
       "type": "recipe",
-      "sortid": 238,
+      "sortid": 265,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1750,7 +1750,7 @@
     {
       "name": "MagIngotCeruclase",
       "type": "recipe",
-      "sortid": 239,
+      "sortid": 266,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1758,7 +1758,7 @@
     {
       "name": "MagOreCobalt",
       "type": "recipe",
-      "sortid": 240,
+      "sortid": 267,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1766,7 +1766,7 @@
     {
       "name": "MagOreCopper",
       "type": "recipe",
-      "sortid": 241,
+      "sortid": 268,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1774,7 +1774,7 @@
     {
       "name": "MagIngotCobalt",
       "type": "recipe",
-      "sortid": 242,
+      "sortid": 269,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1782,7 +1782,7 @@
     {
       "name": "MagIngotCopper",
       "type": "recipe",
-      "sortid": 243,
+      "sortid": 270,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1790,7 +1790,7 @@
     {
       "name": "MagOreDeepIron",
       "type": "recipe",
-      "sortid": 244,
+      "sortid": 271,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1798,7 +1798,7 @@
     {
       "name": "MagIngotDeepIron",
       "type": "recipe",
-      "sortid": 245,
+      "sortid": 272,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1806,7 +1806,7 @@
     {
       "name": "MagOreEximite",
       "type": "recipe",
-      "sortid": 246,
+      "sortid": 273,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1814,7 +1814,7 @@
     {
       "name": "MagIngotEximite",
       "type": "recipe",
-      "sortid": 247,
+      "sortid": 274,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1822,7 +1822,7 @@
     {
       "name": "MagOreIgnatius",
       "type": "recipe",
-      "sortid": 248,
+      "sortid": 275,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1830,7 +1830,7 @@
     {
       "name": "MagIngotIgnatius",
       "type": "recipe",
-      "sortid": 249,
+      "sortid": 276,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1838,7 +1838,7 @@
     {
       "name": "MagOreInfuscolium",
       "type": "recipe",
-      "sortid": 250,
+      "sortid": 277,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1846,7 +1846,7 @@
     {
       "name": "MagIngotInfuscolium",
       "type": "recipe",
-      "sortid": 251,
+      "sortid": 278,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1854,7 +1854,7 @@
     {
       "name": "MagOreIridium",
       "type": "recipe",
-      "sortid": 252,
+      "sortid": 279,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1862,7 +1862,7 @@
     {
       "name": "MagIngotIridium",
       "type": "recipe",
-      "sortid": 253,
+      "sortid": 280,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1870,7 +1870,7 @@
     {
       "name": "MagOreKalendrite",
       "type": "recipe",
-      "sortid": 254,
+      "sortid": 281,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1878,7 +1878,7 @@
     {
       "name": "MagIngotKalendrite",
       "type": "recipe",
-      "sortid": 255,
+      "sortid": 282,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1886,7 +1886,7 @@
     {
       "name": "MagOreLead",
       "type": "recipe",
-      "sortid": 256,
+      "sortid": 283,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1894,7 +1894,7 @@
     {
       "name": "MagIngotLead",
       "type": "recipe",
-      "sortid": 257,
+      "sortid": 284,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1902,7 +1902,7 @@
     {
       "name": "MagOreLemurite",
       "type": "recipe",
-      "sortid": 258,
+      "sortid": 285,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1910,7 +1910,7 @@
     {
       "name": "MagOreManganese",
       "type": "recipe",
-      "sortid": 259,
+      "sortid": 286,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1918,7 +1918,7 @@
     {
       "name": "MagOreMeutoite",
       "type": "recipe",
-      "sortid": 260,
+      "sortid": 287,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1926,7 +1926,7 @@
     {
       "name": "MagIngotMeutoite",
       "type": "recipe",
-      "sortid": 261,
+      "sortid": 288,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1934,7 +1934,7 @@
     {
       "name": "MagOreMidasium",
       "type": "recipe",
-      "sortid": 262,
+      "sortid": 289,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1942,7 +1942,7 @@
     {
       "name": "MagIngotMidasium",
       "type": "recipe",
-      "sortid": 263,
+      "sortid": 290,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1950,7 +1950,7 @@
     {
       "name": "MagOreMythril",
       "type": "recipe",
-      "sortid": 264,
+      "sortid": 291,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1958,7 +1958,7 @@
     {
       "name": "MagIngotMythril",
       "type": "recipe",
-      "sortid": 265,
+      "sortid": 292,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1966,7 +1966,7 @@
     {
       "name": "MagOreNickel",
       "type": "recipe",
-      "sortid": 266,
+      "sortid": 293,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1974,7 +1974,7 @@
     {
       "name": "MagIngotNickel",
       "type": "recipe",
-      "sortid": 267,
+      "sortid": 294,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1982,7 +1982,7 @@
     {
       "name": "MagOreOrichalcum",
       "type": "recipe",
-      "sortid": 268,
+      "sortid": 295,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1990,7 +1990,7 @@
     {
       "name": "MagIngotOrichalcum",
       "type": "recipe",
-      "sortid": 269,
+      "sortid": 296,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1998,7 +1998,7 @@
     {
       "name": "MagOreOureclase",
       "type": "recipe",
-      "sortid": 270,
+      "sortid": 297,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2006,7 +2006,7 @@
     {
       "name": "MagIngotOureclase",
       "type": "recipe",
-      "sortid": 271,
+      "sortid": 298,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2014,7 +2014,7 @@
     {
       "name": "MagOrePlatinum",
       "type": "recipe",
-      "sortid": 272,
+      "sortid": 299,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2022,7 +2022,7 @@
     {
       "name": "MagIngotPlatinum",
       "type": "recipe",
-      "sortid": 273,
+      "sortid": 300,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2030,7 +2030,7 @@
     {
       "name": "MagOrePrometheum",
       "type": "recipe",
-      "sortid": 274,
+      "sortid": 301,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2038,7 +2038,7 @@
     {
       "name": "MagOreRubracium",
       "type": "recipe",
-      "sortid": 275,
+      "sortid": 302,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2046,7 +2046,7 @@
     {
       "name": "MagIngotRubracium",
       "type": "recipe",
-      "sortid": 276,
+      "sortid": 303,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2054,7 +2054,7 @@
     {
       "name": "MagIngotPrometheum",
       "type": "recipe",
-      "sortid": 277,
+      "sortid": 304,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2062,7 +2062,7 @@
     {
       "name": "MagOreSanguinite",
       "type": "recipe",
-      "sortid": 278,
+      "sortid": 305,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2070,7 +2070,7 @@
     {
       "name": "MagOreShadowIron",
       "type": "recipe",
-      "sortid": 279,
+      "sortid": 306,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2078,7 +2078,7 @@
     {
       "name": "MagOreSilver",
       "type": "recipe",
-      "sortid": 280,
+      "sortid": 307,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2086,7 +2086,7 @@
     {
       "name": "MagIngotSilver",
       "type": "recipe",
-      "sortid": 281,
+      "sortid": 308,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2094,7 +2094,7 @@
     {
       "name": "MagOreTin",
       "type": "recipe",
-      "sortid": 282,
+      "sortid": 309,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2102,7 +2102,7 @@
     {
       "name": "MagIngotTin",
       "type": "recipe",
-      "sortid": 283,
+      "sortid": 310,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2110,7 +2110,7 @@
     {
       "name": "MagOreUranium",
       "type": "recipe",
-      "sortid": 284,
+      "sortid": 311,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2118,7 +2118,7 @@
     {
       "name": "MagIngotUranium",
       "type": "recipe",
-      "sortid": 285,
+      "sortid": 312,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2126,7 +2126,7 @@
     {
       "name": "MagOreVulcanite",
       "type": "recipe",
-      "sortid": 286,
+      "sortid": 313,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2134,7 +2134,7 @@
     {
       "name": "MagIngotVulcanite",
       "type": "recipe",
-      "sortid": 287,
+      "sortid": 314,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2142,7 +2142,7 @@
     {
       "name": "MagOreVyroxeres",
       "type": "recipe",
-      "sortid": 288,
+      "sortid": 315,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2150,7 +2150,7 @@
     {
       "name": "MagIngotVyroxeres",
       "type": "recipe",
-      "sortid": 289,
+      "sortid": 316,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2158,7 +2158,7 @@
     {
       "name": "MagOreZinc",
       "type": "recipe",
-      "sortid": 290,
+      "sortid": 317,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2166,7 +2166,7 @@
     {
       "name": "MagIngotZinc",
       "type": "recipe",
-      "sortid": 291,
+      "sortid": 318,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2174,7 +2174,7 @@
     {
       "name": "MagItemSilicone",
       "type": "recipe",
-      "sortid": 292,
+      "sortid": 319,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2182,7 +2182,7 @@
     {
       "name": "MagIngotShadowIron",
       "type": "recipe",
-      "sortid": 293,
+      "sortid": 320,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2190,7 +2190,7 @@
     {
       "name": "MagIngotSanguinite",
       "type": "recipe",
-      "sortid": 294,
+      "sortid": 321,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2198,7 +2198,7 @@
     {
       "name": "MagIngotManganese",
       "type": "recipe",
-      "sortid": 295,
+      "sortid": 322,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2206,7 +2206,7 @@
     {
       "name": "MagIngotLemurite",
       "type": "recipe",
-      "sortid": 296,
+      "sortid": 323,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2214,7 +2214,7 @@
     {
       "name": "IngotCopper",
       "type": "tag",
-      "sortid": 297,
+      "sortid": 324,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2222,7 +2222,7 @@
     {
       "name": "IngotAluminum",
       "type": "tag",
-      "sortid": 298,
+      "sortid": 325,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2230,7 +2230,7 @@
     {
       "name": "IngotAlduorite",
       "type": "tag",
-      "sortid": 299,
+      "sortid": 326,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2238,7 +2238,7 @@
     {
       "name": "IngotLeadTag",
       "type": "tag",
-      "sortid": 300,
+      "sortid": 327,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2246,7 +2246,7 @@
     {
       "name": "IngotSanguiniteTag",
       "type": "tag",
-      "sortid": 301,
+      "sortid": 328,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2254,7 +2254,7 @@
     {
       "name": "SuffusedPickaxe",
       "type": "tool",
-      "sortid": 303,
+      "sortid": 97,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2262,7 +2262,7 @@
     {
       "name": "SuffusedAxe",
       "type": "tool",
-      "sortid": 304,
+      "sortid": 98,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2270,7 +2270,7 @@
     {
       "name": "SuffusedSword",
       "type": "tool",
-      "sortid": 305,
+      "sortid": 101,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2278,7 +2278,7 @@
     {
       "name": "SuffusedShovel",
       "type": "tool",
-      "sortid": 306,
+      "sortid": 99,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2286,7 +2286,7 @@
     {
       "name": "SuffusedHoe",
       "type": "tool",
-      "sortid": 307,
+      "sortid": 100,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2294,7 +2294,7 @@
     {
       "name": "SuffusedPickaxeRecipe",
       "type": "recipe",
-      "sortid": 308,
+      "sortid": 329,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2302,7 +2302,7 @@
     {
       "name": "SuffusedAxeRecipe",
       "type": "recipe",
-      "sortid": 309,
+      "sortid": 330,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2310,7 +2310,7 @@
     {
       "name": "SuffusedSwordRecipe",
       "type": "recipe",
-      "sortid": 310,
+      "sortid": 331,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2318,7 +2318,7 @@
     {
       "name": "SuffusedShovelRecipe",
       "type": "recipe",
-      "sortid": 311,
+      "sortid": 332,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2326,7 +2326,7 @@
     {
       "name": "SuffusedHoeRecipe",
       "type": "recipe",
-      "sortid": 312,
+      "sortid": 333,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2334,7 +2334,7 @@
     {
       "name": "SuffusedArmor",
       "type": "armor",
-      "sortid": 313,
+      "sortid": 102,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2342,7 +2342,7 @@
     {
       "name": "SuffusedArmorHelmetRecipe",
       "type": "recipe",
-      "sortid": 314,
+      "sortid": 334,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2350,7 +2350,7 @@
     {
       "name": "SuffusedArmorBodyRecipe",
       "type": "recipe",
-      "sortid": 315,
+      "sortid": 335,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2358,7 +2358,7 @@
     {
       "name": "SuffusedArmorLeggingsRecipe",
       "type": "recipe",
-      "sortid": 316,
+      "sortid": 336,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2366,7 +2366,7 @@
     {
       "name": "SuffusedArmorBootsRecipe",
       "type": "recipe",
-      "sortid": 317,
+      "sortid": 337,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2374,7 +2374,7 @@
     {
       "name": "StoneLimestoneRod",
       "type": "recipe",
-      "sortid": 318,
+      "sortid": 338,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2382,7 +2382,7 @@
     {
       "name": "ListAllbeefcooked",
       "type": "tag",
-      "sortid": 319,
+      "sortid": 339,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2390,7 +2390,7 @@
     {
       "name": "YelloriumIngot",
       "type": "item",
-      "sortid": 320,
+      "sortid": 94,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2398,7 +2398,7 @@
     {
       "name": "IngotYellorium",
       "type": "tag",
-      "sortid": 321,
+      "sortid": 340,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2406,7 +2406,7 @@
     {
       "name": "RodStoneTag01",
       "type": "tag",
-      "sortid": 322,
+      "sortid": 341,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2414,7 +2414,7 @@
     {
       "name": "MagIngotYellorium",
       "type": "recipe",
-      "sortid": 323,
+      "sortid": 342,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2422,7 +2422,7 @@
     {
       "name": "MagOreYellorium",
       "type": "recipe",
-      "sortid": 324,
+      "sortid": 343,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2430,7 +2430,7 @@
     {
       "name": "InertMagicalWood",
       "type": "block",
-      "sortid": 325,
+      "sortid": 50,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2438,7 +2438,7 @@
     {
       "name": "InertMagicalRecipe",
       "type": "recipe",
-      "sortid": 326,
+      "sortid": 344,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2446,7 +2446,7 @@
     {
       "name": "MagicalWoodTag",
       "type": "tag",
-      "sortid": 327,
+      "sortid": 345,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2454,7 +2454,7 @@
     {
       "name": "FragAir",
       "type": "item",
-      "sortid": 330,
+      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2462,7 +2462,7 @@
     {
       "name": "FragmentAir",
       "type": "tag",
-      "sortid": 331,
+      "sortid": 346,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2470,7 +2470,7 @@
     {
       "name": "FragmentClay",
       "type": "item",
-      "sortid": 332,
+      "sortid": 3,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2478,7 +2478,7 @@
     {
       "name": "FragmentClayTag",
       "type": "tag",
-      "sortid": 333,
+      "sortid": 347,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2486,7 +2486,7 @@
     {
       "name": "FragDeath",
       "type": "item",
-      "sortid": 334,
+      "sortid": 4,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2494,7 +2494,7 @@
     {
       "name": "FragmentDeath",
       "type": "tag",
-      "sortid": 335,
+      "sortid": 348,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2502,7 +2502,7 @@
     {
       "name": "FragDemonic",
       "type": "item",
-      "sortid": 336,
+      "sortid": 5,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2510,7 +2510,7 @@
     {
       "name": "FragmentDemonic",
       "type": "tag",
-      "sortid": 337,
+      "sortid": 349,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2518,7 +2518,7 @@
     {
       "name": "FragDevine",
       "type": "item",
-      "sortid": 339,
+      "sortid": 6,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2526,7 +2526,7 @@
     {
       "name": "FragmentDevine",
       "type": "tag",
-      "sortid": 340,
+      "sortid": 350,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2534,7 +2534,7 @@
     {
       "name": "FragEarth",
       "type": "item",
-      "sortid": 341,
+      "sortid": 7,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2542,7 +2542,7 @@
     {
       "name": "FragmentEarth",
       "type": "tag",
-      "sortid": 342,
+      "sortid": 351,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2550,7 +2550,7 @@
     {
       "name": "FragFrost",
       "type": "item",
-      "sortid": 343,
+      "sortid": 8,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2558,7 +2558,7 @@
     {
       "name": "FragmentFrost",
       "type": "tag",
-      "sortid": 344,
+      "sortid": 352,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2566,7 +2566,7 @@
     {
       "name": "FragFire",
       "type": "item",
-      "sortid": 345,
+      "sortid": 9,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2574,7 +2574,7 @@
     {
       "name": "FragmentFire",
       "type": "tag",
-      "sortid": 346,
+      "sortid": 353,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2582,7 +2582,7 @@
     {
       "name": "FragLife",
       "type": "item",
-      "sortid": 347,
+      "sortid": 10,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2590,7 +2590,7 @@
     {
       "name": "FragLightning",
       "type": "item",
-      "sortid": 348,
+      "sortid": 11,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2598,7 +2598,7 @@
     {
       "name": "FragmentLightning",
       "type": "tag",
-      "sortid": 349,
+      "sortid": 354,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2606,7 +2606,7 @@
     {
       "name": "FragMagma",
       "type": "item",
-      "sortid": 350,
+      "sortid": 12,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2614,7 +2614,7 @@
     {
       "name": "FragmentMagma",
       "type": "tag",
-      "sortid": 351,
+      "sortid": 355,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2622,7 +2622,7 @@
     {
       "name": "FragLight",
       "type": "item",
-      "sortid": 352,
+      "sortid": 13,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2630,7 +2630,7 @@
     {
       "name": "FragmentLight",
       "type": "tag",
-      "sortid": 353,
+      "sortid": 356,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2638,7 +2638,7 @@
     {
       "name": "FragShadow",
       "type": "item",
-      "sortid": 354,
+      "sortid": 14,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2646,7 +2646,7 @@
     {
       "name": "FragmentLife",
       "type": "tag",
-      "sortid": 355,
+      "sortid": 357,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2654,7 +2654,7 @@
     {
       "name": "FragmentShadow",
       "type": "tag",
-      "sortid": 356,
+      "sortid": 358,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2662,7 +2662,7 @@
     {
       "name": "FragSpiritual",
       "type": "item",
-      "sortid": 357,
+      "sortid": 15,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2670,7 +2670,7 @@
     {
       "name": "FragmentSpiritual",
       "type": "tag",
-      "sortid": 358,
+      "sortid": 359,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2678,7 +2678,7 @@
     {
       "name": "FragWater",
       "type": "item",
-      "sortid": 359,
+      "sortid": 16,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2694,7 +2694,7 @@
     {
       "name": "DustAir",
       "type": "item",
-      "sortid": 361,
+      "sortid": 17,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2702,7 +2702,7 @@
     {
       "name": "DustClay",
       "type": "item",
-      "sortid": 362,
+      "sortid": 18,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2710,7 +2710,7 @@
     {
       "name": "DustDeath",
       "type": "item",
-      "sortid": 363,
+      "sortid": 19,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2718,7 +2718,7 @@
     {
       "name": "DustDemonic",
       "type": "item",
-      "sortid": 364,
+      "sortid": 20,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2726,7 +2726,7 @@
     {
       "name": "DustDevine",
       "type": "item",
-      "sortid": 365,
+      "sortid": 21,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2734,7 +2734,7 @@
     {
       "name": "DustEarth",
       "type": "item",
-      "sortid": 366,
+      "sortid": 22,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2742,7 +2742,7 @@
     {
       "name": "DustFire",
       "type": "item",
-      "sortid": 367,
+      "sortid": 23,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2750,7 +2750,7 @@
     {
       "name": "DustFrost",
       "type": "item",
-      "sortid": 368,
+      "sortid": 24,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2758,7 +2758,7 @@
     {
       "name": "DustLife",
       "type": "item",
-      "sortid": 369,
+      "sortid": 25,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2766,7 +2766,7 @@
     {
       "name": "DustLight",
       "type": "item",
-      "sortid": 370,
+      "sortid": 26,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2774,7 +2774,7 @@
     {
       "name": "DustLightning",
       "type": "item",
-      "sortid": 371,
+      "sortid": 27,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2782,7 +2782,7 @@
     {
       "name": "DustMagma",
       "type": "item",
-      "sortid": 372,
+      "sortid": 28,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2790,7 +2790,7 @@
     {
       "name": "DustShadow",
       "type": "item",
-      "sortid": 373,
+      "sortid": 29,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2798,7 +2798,7 @@
     {
       "name": "DustSpiritual",
       "type": "item",
-      "sortid": 374,
+      "sortid": 30,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2806,7 +2806,7 @@
     {
       "name": "DustWater",
       "type": "item",
-      "sortid": 375,
+      "sortid": 31,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2814,7 +2814,7 @@
     {
       "name": "DustAirTag",
       "type": "tag",
-      "sortid": 377,
+      "sortid": 361,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2822,7 +2822,7 @@
     {
       "name": "ElementalCentrifuge",
       "type": "block",
-      "sortid": 378,
+      "sortid": 41,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2830,7 +2830,7 @@
     {
       "name": "ElementalCrystallizationChamber",
       "type": "block",
-      "sortid": 379,
+      "sortid": 42,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2838,7 +2838,7 @@
     {
       "name": "FragmentCollisionChamber",
       "type": "block",
-      "sortid": 380,
+      "sortid": 43,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2846,7 +2846,7 @@
     {
       "name": "BasicElementalCrystallizationChamber",
       "type": "block",
-      "sortid": 381,
+      "sortid": 44,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2854,7 +2854,7 @@
     {
       "name": "ChaosCollisionChamber",
       "type": "block",
-      "sortid": 382,
+      "sortid": 45,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2862,7 +2862,7 @@
     {
       "name": "AdvancedElementalCrystallizationChamber",
       "type": "block",
-      "sortid": 383,
+      "sortid": 46,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2870,7 +2870,7 @@
     {
       "name": "EnlightnementChamber",
       "type": "block",
-      "sortid": 384,
+      "sortid": 48,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2878,7 +2878,7 @@
     {
       "name": "DarkeningChamber",
       "type": "block",
-      "sortid": 385,
+      "sortid": 49,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2886,7 +2886,7 @@
     {
       "name": "ElementalCentrifugePro",
       "type": "procedure",
-      "sortid": 386,
+      "sortid": 362,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2910,6 +2910,750 @@
           }
         ]
       }
+    },
+    {
+      "name": "ElementalCentrifugeGUI",
+      "type": "gui",
+      "sortid": 363,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 3
+      }
+    },
+    {
+      "name": "ElementalCentrifugeOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 364,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ElementalCrystalizationChamber",
+      "type": "gui",
+      "sortid": 365,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 4
+      }
+    },
+    {
+      "name": "ECCPro",
+      "type": "procedure",
+      "sortid": 366,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ElementalCrystallizationChamberOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 367,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FragmentCollisionChamberGUI",
+      "type": "gui",
+      "sortid": 368,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 5
+      }
+    },
+    {
+      "name": "BasicElementalCrystalizationChamber",
+      "type": "gui",
+      "sortid": 369,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 6
+      }
+    },
+    {
+      "name": "BasicElementalCrystalPro",
+      "type": "procedure",
+      "sortid": 370,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BasicElementalCrystallizationChamberOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 371,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FragmentCollisionPro",
+      "type": "procedure",
+      "sortid": 372,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FragmentCollisionChamberOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 373,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ChaosCollisionChamberGUI",
+      "type": "gui",
+      "sortid": 374,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 7
+      }
+    },
+    {
+      "name": "ChaosCollisionChamberGUIOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 375,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ChaosCollisionChamberGUIUpdateTick",
+      "type": "procedure",
+      "sortid": 376,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "OrderCollisionChamber",
+      "type": "block",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "OrderCollisionChamberGUI",
+      "type": "gui",
+      "sortid": 377,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 8
+      }
+    },
+    {
+      "name": "OrderCollisionChamberOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 378,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "OrderCollisionChamberUpdateTick",
+      "type": "procedure",
+      "sortid": 379,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MachineCasing",
+      "type": "block",
+      "sortid": 380,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "IronPlate",
+      "type": "item",
+      "sortid": 381,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MachineCasingREcipe",
+      "type": "recipe",
+      "sortid": 381,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BasicCircuit",
+      "type": "item",
+      "sortid": 382,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BasicCircuitRecipe",
+      "type": "recipe",
+      "sortid": 383,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ElementalCentrifugeRecipe",
+      "type": "recipe",
+      "sortid": 384,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BasicShardBundle",
+      "type": "item",
+      "sortid": 385,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BasicShardBundleREcipe",
+      "type": "recipe",
+      "sortid": 386,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ElementalCircuit",
+      "type": "item",
+      "sortid": 387,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ElementalCrystalChamberRecipe",
+      "type": "recipe",
+      "sortid": 388,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LifePlate",
+      "type": "item",
+      "sortid": 389,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LivingMachineCasing",
+      "type": "block",
+      "sortid": 390,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FragmentCollisionChamberRecipe",
+      "type": "recipe",
+      "sortid": 389,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LivingMachineCAsingRecipe",
+      "type": "recipe",
+      "sortid": 391,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ChaoticCasing",
+      "type": "block",
+      "sortid": 392,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SuffucedPlate",
+      "type": "item",
+      "sortid": 393,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ChaoticMachineCasingRecipe",
+      "type": "recipe",
+      "sortid": 394,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Bearing",
+      "type": "item",
+      "sortid": 395,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BearingRecipe",
+      "type": "recipe",
+      "sortid": 396,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SuperConductiveBearing",
+      "type": "item",
+      "sortid": 397,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SuperConductiveBearingRecipe",
+      "type": "recipe",
+      "sortid": 398,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BasicElementalCrystalizationChamberRecipe",
+      "type": "recipe",
+      "sortid": 399,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AdvancedShardBundle",
+      "type": "item",
+      "sortid": 400,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AdvancedElementalCircuit",
+      "type": "item",
+      "sortid": 401,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AdvancedShardBundleRecipe",
+      "type": "recipe",
+      "sortid": 402,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ChaosCollisionChamberRecipe",
+      "type": "recipe",
+      "sortid": 403,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AdvancedElementalCrystalChamber",
+      "type": "recipe",
+      "sortid": 404,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Chamber",
+      "type": "item",
+      "sortid": 405,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ChamberRecipe",
+      "type": "recipe",
+      "sortid": 406,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PositiveChamber",
+      "type": "item",
+      "sortid": 407,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "NagativeChamber",
+      "type": "item",
+      "sortid": 408,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PositiveChamberRecipe",
+      "type": "recipe",
+      "sortid": 409,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "NegativeChamberRecipe",
+      "type": "recipe",
+      "sortid": 410,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EnlightenmentChamberREcipe",
+      "type": "recipe",
+      "sortid": 411,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "DarkeningChamberRecipe",
+      "type": "recipe",
+      "sortid": 412,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MetalPress",
+      "type": "block",
+      "sortid": 413,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MetalPressRecipe",
+      "type": "recipe",
+      "sortid": 414,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Injector",
+      "type": "block",
+      "sortid": 415,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "InjectorRecipe",
+      "type": "recipe",
+      "sortid": 416,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MagicalReactionChamber",
+      "type": "block",
+      "sortid": 417,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "UnstableMagicalChamber",
+      "type": "item",
+      "sortid": 418,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "UnstableMagicalChamberTag",
+      "type": "tag",
+      "sortid": 419,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MagicalReactionChamberRecipe",
+      "type": "recipe",
+      "sortid": 420,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -2921,26 +3665,31 @@
       "item.suffusedaxe.name": "Suffused Axe",
       "tile.nethrachite.name": "Nethrachite",
       "item.dustclay.name": "Clay Dust",
+      "item.positivechamber.name": "Positive Chamber",
       "item.lemuriteingot.name": "Lemurite Ingot",
       "item.dustfire.name": "Fire Dust",
+      "item.nagativechamber.name": "Nagative Chamber",
       "item.prometheumingot.name": "Prometheum Ingot",
       "item.ceruclaseingot.name": "Ceruclase Ingot",
+      "item.lifeplate.name": "Life Plate",
+      "tile.chaoticcasing.name": "Chaotic Casing",
       "item.dustmagichite.name": "Magichite",
       "item.fragearth.name": "Earth Fragment",
       "item.fraglightning.name": "Lightning Fragment",
-      "item.dustfrost.name": "Dust Frost",
+      "item.dustfrost.name": "Frost Dust",
       "tile.elementalcrystallizationchamber.name": "Elemental Crystallization Chamber",
+      "item.suffucedplate.name": "Suffuced Plate",
       "item.suffusedshovel.name": "Suffused Shovel",
       "item.alduoriteingot.name": "Alduorite Ingot",
       "advancements.mygoditsfullofstars.descr": "Through hard work you have moved forward along your path. Lets start Alchemy!",
       "item.oureclaseingot.name": "Oureclase Ingot",
       "tile.elementalcentrifuge.name": "Elemental Centrifuge",
-      "item.dustearth.name": "Dust Earth",
+      "item.dustearth.name": "Earth Dust",
       "item.flintscraper.name": "Flint Scraper",
       "item.fragfrost.name": "Frost Fragment",
       "tile.suffusedcoalblock.name": "Suffused Coal Block",
       "item.fragmagma.name": "Magma Fragment",
-      "item.dustdeath.name": "Dust Death",
+      "item.dustdeath.name": "Death Dust",
       "item.cobaltingot.name": "Cobalt Ingot",
       "item.orichalcumingot.name": "Orichalcum Ingot",
       "item.shadowironingot.name": "Shadow Iron Ingot",
@@ -2951,6 +3700,7 @@
       "item.lightrottenflesh.name": "Light Rotten Flesh",
       "item.suffusedhoe.name": "Suffused Hoe",
       "item.emptyalchemyjar.name": "Empty Alchemy Jar",
+      "item.advancedelementalcircuit.name": "Advanced Elemental Circuit",
       "item.adamantineingot.name": "Adamantine Ingot",
       "item.siliconingot.name": "Silicon Ingot",
       "item.zincingot.name": "Zinc Ingot",
@@ -2961,21 +3711,25 @@
       "tile.inertmagicalwood.name": "Inert Magical Wood",
       "item.dustdemonic.name": "Demonic Dust",
       "tile.advancedelementalcrystallizationchamber.name": "Advanced Elemental Crystallization Chamber",
-      "tile.enlightnementchamber.name": "Enlightnement Chamber",
+      "tile.enlightnementchamber.name": "Enlightenment Chamber",
       "item.fraglight.name": "Light Fragment",
       "item.rodstoneitem.name": "Stone Rod",
       "item.dustair.name": "Air Dust",
       "item.alchemicalsubstance.name": "Alchemical Substance",
+      "item.bearing.name": "Bearing",
       "item.fragwater.name": "Water Fragment",
       "item.manganeseingot.name": "Manganese Ingot",
       "tile.particleboard.name": "Particle Board",
       "item.fragdeath.name": "Death Fragment",
       "item.fragspiritual.name": "Frag Spiritual",
-      "item.dustspiritual.name": "Dust Spiritual",
+      "item.dustspiritual.name": "Spiritual Dust",
       "item.suffusedarmorboots.name": "Suffused Boots",
       "item.dustdevine.name": "Devine Dust",
+      "tile.ordercollisionchamber.name": "Order Collision Chamber",
+      "item.basiccircuit.name": "Basic Circuit",
       "item.leadingot.name": "Lead Ingot",
       "item.flesh.name": "Flesh",
+      "item.ironplate.name": "Iron Plate",
       "item.dustlight.name": "Light Dust",
       "item.suffusedarmorlegs.name": "Suffused Leggings",
       "itemGroup.tabkindredcraftingots": "Kindred Craft Ingots",
@@ -2984,22 +3738,28 @@
       "item.suffusedarmorhelmet.name": "Suffused Helmet",
       "item.sanguiniteingot.name": "Sanguinite Ingot",
       "item.mythrilingot.name": "Mythril Ingot",
-      "item.dustlightning.name": "Dust Lightning",
+      "item.dustlightning.name": "Lightning Dust",
       "item.fragmentclay.name": "Clay Fragment",
       "item.suffusedcoal.name": "Suffused Coal",
       "item.rubraciumingot.name": "Rubracium Ingot",
       "item.vyroxeresingot.name": "Vyroxeres Ingot",
       "item.fragfire.name": "Fire Fragment",
+      "tile.magicalreactionchamber.name": "Magical Reaction Chamber",
       "item.midasiumingot.name": "Midasium Ingot",
       "item.suffusedarmorbody.name": "Suffused Chestplate",
       "item.fragshadow.name": "Shadow Fragment",
+      "item.elementalcircuit.name": "Elemental Circuit",
       "item.ignatiusingot.name": "Ignatius Ingot",
       "item.vulcaniteingot.name": "Vulcanite Ingot",
       "item.eximiteingot.name": "Eximite Ingot",
       "item.suffusedsword.name": "Suffused Sword",
+      "tile.metalpress.name": "Metal Press",
+      "item.basicshardbundle.name": "Basic Shard Bundle",
+      "item.unstablemagicalchamber.name": "Unstable Magical Chamber",
       "item.kalendriteingot.name": "Kalendrite Ingot",
       "item.suffusedpickaxe.name": "Suffused Pickaxe",
       "item.fraglife.name": "Life Fragment",
+      "item.advancedshardbundle.name": "Advanced Shard Bundle",
       "item.aluminumingot.name": "Aluminum Ingot",
       "item.apatiteingot.name": "Apatite Ingot",
       "item.meutoiteingot.name": "Meutoite Ingot",
@@ -3008,12 +3768,15 @@
       "item.dustmagma.name": "Magma Dust",
       "advancements.mygoditsfullofstars.title": "My god, it\u0027s full of colour!",
       "item.fragdevine.name": "Devine Fragment",
+      "tile.injector.name": "Injector",
       "item.stopperedemptyalchemyjar.name": "Stoppered Empty Alchemy Jar",
       "item.astralsilveringot.name": "Astral Silveringot",
       "item.deepironingot.name": "Deep Iron Ingot",
       "item.carmotingot.name": "Carmot Ingot",
       "item.yelloriumingot.name": "Yellorium Ingot",
-      "item.dustwater.name": "Dust Water",
+      "tile.livingmachinecasing.name": "Living Machine Casing",
+      "item.dustwater.name": "Water Dust",
+      "item.superconductivebearing.name": "Super Conductive Bearing",
       "item.silveringot.name": "Silver Ingot",
       "item.kindredcoal.name": "Kindred Coal",
       "item.atlarusingot.name": "Atlarus Ingot",
@@ -3023,7 +3786,9 @@
       "item.fragdemonic.name": "Demonic Fragment",
       "tile.fragmentcollisionchamber.name": "Fragment Collision Chamber",
       "tile.darkeningchamber.name": "Darkening Chamber",
-      "item.dustshadow.name": "Dust Shadow",
+      "tile.machinecasing.name": "Machine Casing",
+      "item.chamber.name": "Chamber",
+      "item.dustshadow.name": "Shadow Dust",
       "tile.basicelementalcrystallizationchamber.name": "Basic Elemental Crystallization Chamber"
     }
   },
@@ -3040,8 +3805,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "1.12.2",
-    "usesProFeatures": false,
     "lockBaseModFiles": false
   },
-  "mcreatorVersion": 202000105419
+  "mcreatorVersion": 202000214217
 }

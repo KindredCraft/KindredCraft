@@ -1,0 +1,42 @@
+{
+  "group": "kindredcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "kindredcraft:fraglightning"
+    },
+    "1": {
+      "item": "kindredcraft:suffucedplate"
+    },
+    "2": {
+      "item": "kindredcraft:fragmagma"
+    },
+    "3": {
+      "item": "kindredcraft:suffucedplate"
+    },
+    "4": {
+      "item": "kindredcraft:livingmachinecasing"
+    },
+    "5": {
+      "item": "kindredcraft:suffucedplate"
+    },
+    "6": {
+      "item": "kindredcraft:fragmentclay"
+    },
+    "7": {
+      "item": "kindredcraft:suffucedplate"
+    },
+    "8": {
+      "item": "kindredcraft:fragfrost"
+    }
+  },
+  "result": {
+    "item": "kindredcraft:chaoticcasing",
+    "count": 1
+  }
+}

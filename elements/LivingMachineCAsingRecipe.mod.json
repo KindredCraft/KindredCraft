@@ -1,0 +1,44 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:FragWater"
+      },
+      {
+        "value": "CUSTOM:LifePlate"
+      },
+      {
+        "value": "CUSTOM:FragEarth"
+      },
+      {
+        "value": "CUSTOM:LifePlate"
+      },
+      {
+        "value": "CUSTOM:MachineCasing"
+      },
+      {
+        "value": "CUSTOM:LifePlate"
+      },
+      {
+        "value": "CUSTOM:FragAir"
+      },
+      {
+        "value": "CUSTOM:LifePlate"
+      },
+      {
+        "value": "CUSTOM:FragFire"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:LivingMachineCasing"
+    },
+    "name": "livingmachinecasingrecipe",
+    "namespace": "mod"
+  }
+}

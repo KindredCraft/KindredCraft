@@ -4,9 +4,9 @@
     "down": "kindredcraft:blocks/lightbottom",
     "up": "kindredcraft:blocks/lightfront",
     "north": "kindredcraft:blocks/lighttop",
-    "east": "kindredcraft:blocks/lighttop",
-    "south": "kindredcraft:blocks/lighttop",
-    "west": "kindredcraft:blocks/lighttop",
+    "east": "kindredcraft:blocks/lightbottom",
+    "south": "kindredcraft:blocks/lightbottom",
+    "west": "kindredcraft:blocks/lightbottom",
     "particle": "kindredcraft:blocks/lightbottom"
   }
 }

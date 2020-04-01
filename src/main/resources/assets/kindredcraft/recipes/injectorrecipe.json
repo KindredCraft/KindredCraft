@@ -1,0 +1,42 @@
+{
+  "group": "kindredcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "kindredcraft:bearing"
+    },
+    "1": {
+      "item": "kindredcraft:ironplate"
+    },
+    "2": {
+      "item": "kindredcraft:bearing"
+    },
+    "3": {
+      "item": "kindredcraft:chamber"
+    },
+    "4": {
+      "item": "kindredcraft:machinecasing"
+    },
+    "5": {
+      "item": "kindredcraft:chamber"
+    },
+    "6": {
+      "item": "kindredcraft:bearing"
+    },
+    "7": {
+      "item": "kindredcraft:ironplate"
+    },
+    "8": {
+      "item": "kindredcraft:bearing"
+    }
+  },
+  "result": {
+    "item": "kindredcraft:injector",
+    "count": 1
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "group": "kindredcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "kindredcraft:advancedelementalcircuit"
+    },
+    "1": {
+      "item": "minecraft:skull",
+      "data": 1
+    },
+    "2": {
+      "item": "kindredcraft:advancedelementalcircuit"
+    },
+    "3": {
+      "item": "kindredcraft:fragmentclay"
+    },
+    "4": {
+      "item": "kindredcraft:chamber"
+    },
+    "5": {
+      "item": "kindredcraft:fragmentclay"
+    },
+    "6": {
+      "item": "minecraft:magma"
+    },
+    "7": {
+      "item": "minecraft:magma"
+    },
+    "8": {
+      "item": "minecraft:magma"
+    }
+  },
+  "result": {
+    "item": "kindredcraft:nagativechamber",
+    "count": 2
+  }
+}

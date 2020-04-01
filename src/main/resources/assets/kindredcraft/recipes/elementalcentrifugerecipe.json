@@ -1,0 +1,42 @@
+{
+  "group": "kindredcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:redstone"
+    },
+    "1": {
+      "item": "kindredcraft:basiccircuit"
+    },
+    "2": {
+      "item": "minecraft:redstone"
+    },
+    "3": {
+      "item": "minecraft:lava_bucket"
+    },
+    "4": {
+      "item": "kindredcraft:machinecasing"
+    },
+    "5": {
+      "item": "minecraft:water_bucket"
+    },
+    "6": {
+      "item": "kindredcraft:chamber"
+    },
+    "7": {
+      "item": "kindredcraft:bearing"
+    },
+    "8": {
+      "item": "kindredcraft:chamber"
+    }
+  },
+  "result": {
+    "item": "kindredcraft:elementalcentrifuge",
+    "count": 1
+  }
+}
